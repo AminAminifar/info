@@ -12,7 +12,8 @@ Amin Aminifar received his Ph.D. degree in computer science from the Western Nor
 
 Research Topics
 ======
-* Privacy-preserving federated learning and distributed machine learning with applications in the healthcare domain
-* Machine learning in resource-constrained devices in the healthcare domain
+* Privacy-preserving federated learning and distributed machine learning
+* Machine learning in resource-constrained devices 
+* Machine learning in the healthcare domain
   
 
