@@ -6,5 +6,5 @@ author_profile: true
 ---
 
 My address:
-<p>This map is generated from a Jupyter Notebook file in <a href="https://github.com/academicpages/academicpages.github.io/blob/master/_talks/talkmap.ipynb">/_talks/talkmap.ipynb</a>, which mines the location fields in the .md files in _talks/.</p>
-<iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe>
+<p>Im Neuenheimer Feld 368, 69120 Heidelberg</p>
+<iframe src="[/talkmap/map.html](https://www.google.com/maps/place/Im+Neuenheimer+Feld+368,+69120+Heidelberg/@49.4177368,8.6683416,17z/data=!3m1!4b1!4m6!3m5!1s0x4797c1320e78d981:0x2dd3ea121078a7eb!8m2!3d49.4177368!4d8.6683416!16s%2Fg%2F11c24rsjr0?entry=ttu)https://www.google.com/maps/place/Im+Neuenheimer+Feld+368,+69120+Heidelberg/@49.4177368,8.6683416,17z/data=!3m1!4b1!4m6!3m5!1s0x4797c1320e78d981:0x2dd3ea121078a7eb!8m2!3d49.4177368!4d8.6683416!16s%2Fg%2F11c24rsjr0?entry=ttu" height="700" width="850" style="border:none;"></iframe>
