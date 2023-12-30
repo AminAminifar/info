@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Amin Aminifar received his Ph.D. degree in computer science from the Western Norway University of Applied Sciences, Bergen, Norway, in 2022. He is currently a ZITI postdoctoral fellow at the Institute of Computer Engineering (ZITI), Heidelberg University, Germany.
+Amin Aminifar is a ZITI postdoctoral fellow at the Institute of Computer Engineering (ZITI), Heidelberg University, Germany. He received his Ph.D. degree in computer science from the Western Norway University of Applied Sciences, Bergen, Norway, in 2022.
 
 Research Topics
 ======
