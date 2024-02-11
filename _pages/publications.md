@@ -9,7 +9,6 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-
 * Aminifar, Amin, Khooyooz, Soheil, Jahanjoo, Anice, Shakibhamedan, Salar, TaheriNejad, Nima. "RecogNoise: Machine-Learning-Based Recognition of Noisy Segments in Electrocardiogram Signals." IEEE International Symposium on Circuits and Systems (ISCAS), 2024.
 * Jahanjoo, Anice, TaheriNejad, Nima, Aminifar, Amin. "High-Accuracy Stress Detection Using Wrist-Worn PPG Sensors." IEEE International Symposium on Circuits and Systems (ISCAS), 2024.
 * Aminifar, Amin, Shokri, Matin, Rabbi, Fazle, Pun, Violet Ka I, Lamo, Yngve. "Extremely Randomized Trees With Privacy Preservation for Distributed Structured Health Data." IEEE Access, 2022, pp. 6010-6027.
