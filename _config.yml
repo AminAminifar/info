@@ -255,7 +255,7 @@ defaults:
       path: ""
       type: technical_experience
     values:
-      layout: technical_experience
+      layout: single
       author_profile: true
       share: true
   # _contact
