@@ -10,7 +10,7 @@ main:
     url: /teaching/    
     
   - title: "Technical Experience"
-  url: /technical_experience/   
+    url: /technical_experience/   
 
   - title: "Contact"
     url: /contact/   
