@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Technical Experience"
-permalink: /teaching/
+permalink: /technical_experience/
 author_profile: true
 ---
 
