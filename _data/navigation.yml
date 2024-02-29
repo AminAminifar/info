@@ -9,8 +9,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-    - title: "Technical Experience"
-    url: /technical_experience/   
+  - title: "Technical Experience"
+  url: /technical_experience/   
 
   - title: "Contact"
     url: /contact/   
