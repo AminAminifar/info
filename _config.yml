@@ -253,7 +253,7 @@ defaults:
   # _technical_experience
   - scope:
       path: ""
-      type: technical_experience
+      type: pages
     values:
       layout: single
       author_profile: true
