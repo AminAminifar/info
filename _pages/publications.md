@@ -10,7 +10,8 @@ author_profile: true
 {% endif %}
 
 * Khooyooz, Soheil, Jahanjoo, Anice, Aminifar, Amin, TaheriNejad, Nima. "A Novel Machine-Learning-Based Noise Detection Method for Photoplethysmography Signals." 2024 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 2024.
-*  Shakibhamedan, Salar, Amin Aminifar, Nima Taherinejad, Axel Jantsch. "EASE: Energy Optimization through Adaptation – A Review of Runtime Energy-Aware Approximate Deep Learning Algorithms." TechRxiv, pp. 1-19, 2024. DOI: 10.36227/techrxiv.170723230.09169589/v1
+* Aminifar, Amin and Huang, Baichuan and Abtahi, Azra and Aminifar, Amir. "Lightweight Inference for Forward-Forward Algorithm." arXiv: 2404.05241, 2024.
+* Shakibhamedan, Salar, Amin Aminifar, Nima Taherinejad, Axel Jantsch. "EASE: Energy Optimization through Adaptation – A Review of Runtime Energy-Aware Approximate Deep Learning Algorithms." TechRxiv, pp. 1-19, 2024. DOI: 10.36227/techrxiv.170723230.09169589/v1
 * Aminifar, Amin, Khooyooz, Soheil, Jahanjoo, Anice, Shakibhamedan, Salar, TaheriNejad, Nima. "RecogNoise: Machine-Learning-Based Recognition of Noisy Segments in Electrocardiogram Signals." IEEE International Symposium on Circuits and Systems (ISCAS), 2024.
 * Jahanjoo, Anice, TaheriNejad, Nima, Aminifar, Amin. "High-Accuracy Stress Detection Using Wrist-Worn PPG Sensors." IEEE International Symposium on Circuits and Systems (ISCAS), 2024.
 * Aminifar, Amin, Shokri, Matin, Rabbi, Fazle, Pun, Violet Ka I, Lamo, Yngve. "Extremely Randomized Trees With Privacy Preservation for Distributed Structured Health Data." IEEE Access, 2022, pp. 6010-6027.
