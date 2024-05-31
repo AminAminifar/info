@@ -9,7 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-* Shakibhamedan, Salar, Amin Aminifar and Luke Vassallo and Nima TaheriNejad. "Harnessing Approximate Computing for Machine Learning." IEEE Computer Society Annual Symposium on VLSI (ISVLSI), 2024
+* Shakibhamedan, Salar, Amin Aminifar and Luke Vassallo and Nima TaheriNejad. "Harnessing Approximate Computing for Machine Learning." IEEE Computer Society Annual Symposium on VLSI (ISVLSI), 2024.
 * Aminifar, Amin and Shokri, Matin and Aminifar, Amir. "Privacy-Preserving Edge Federated Learning for Intelligent Mobile-Health Systems." arXiv: 2405.05611, 2024.
 * Khooyooz, Soheil, Jahanjoo, Anice, Aminifar, Amin, TaheriNejad, Nima. "A Novel Machine-Learning-Based Noise Detection Method for Photoplethysmography Signals." 2024 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 2024.
 * Aminifar, Amin and Huang, Baichuan and Abtahi, Azra and Aminifar, Amir. "Lightweight Inference for Forward-Forward Algorithm." arXiv: 2404.05241, 2024.
