@@ -9,6 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+* Shakibhamedan, Salar, Anice Jahanjoo, Amin Aminifar, Nima Amirafshar, Nima TaheriNejad, Axel Jantsch. "An Analytical Approach to Enhancing DNN Efficiency and Accuracy Using Approximate Multiplication" Workshop on Advancing Neural Network Training: Computational Efficiency, Scalability, and Resource Optimization (WANT@ICML), 2024.
 * Traunmueller, Peter, Anice Jahanjoo, Soheil Khooyooz, Amin Aminifar, Nima TaheriNejad. "Wearable Healthcare Devices for Monitoring Stress and Concentration Level in Workplace Environments." arXiv 2406.05813, 2024.
 * Shakibhamedan, Salar, Amin Aminifar and Luke Vassallo and Nima TaheriNejad. "Harnessing Approximate Computing for Machine Learning." IEEE Computer Society Annual Symposium on VLSI (ISVLSI), 2024.
 * Aminifar, Amin and Shokri, Matin and Aminifar, Amir. "Privacy-Preserving Edge Federated Learning for Intelligent Mobile-Health Systems." arXiv: 2405.05611, 2024.
