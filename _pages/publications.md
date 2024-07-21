@@ -9,12 +9,12 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-* Shakibhamedan, Salar, Anice Jahanjoo, <b>Amin Aminifar</b>, Nima Amirafshar, Nima TaheriNejad, Axel Jantsch. "An Analytical Approach to Enhancing DNN Efficiency and Accuracy Using Approximate Multiplication" Workshop on Advancing Neural Network Training: Computational Efficiency, Scalability, and Resource Optimization (WANT@ICML), 2024.
-* Traunmueller, Peter, Anice Jahanjoo, Soheil Khooyooz, <b>Amin Aminifar</b>, Nima TaheriNejad. "Wearable Healthcare Devices for Monitoring Stress and Concentration Level in Workplace Environments." arXiv 2406.05813, 2024.
-* Shakibhamedan, Salar, <b>Amin Aminifar</b> and Luke Vassallo and Nima TaheriNejad. "Harnessing Approximate Computing for Machine Learning." IEEE Computer Society Annual Symposium on VLSI (ISVLSI), 2024.
-* <b>Amin Aminifar</b> and Shokri, Matin and Aminifar, Amir. "Privacy-Preserving Edge Federated Learning for Intelligent Mobile-Health Systems." Future Generation Computer Systems, 2024.
-* Khooyooz, Soheil, Jahanjoo, Anice, <b>Amin Aminifar</b>, TaheriNejad, Nima. "A Novel Machine-Learning-Based Noise Detection Method for Photoplethysmography Signals." 2024 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 2024.
 * Shakibhamedan, Salar, <b>Amin Aminifar</b>, Nima Taherinejad, Axel Jantsch. "EASE: Energy Optimization through Adaptation – A Review of Runtime Energy-Aware Approximate Deep Learning Algorithms." TechRxiv, pp. 1-19, 2024. DOI: 10.36227/techrxiv.170723230.09169589/v1
+* Traunmueller, Peter, Anice Jahanjoo, Soheil Khooyooz, <b>Amin Aminifar</b>, Nima TaheriNejad. "Wearable Healthcare Devices for Monitoring Stress and Concentration Level in Workplace Environments." arXiv 2406.05813, 2024.
+* <b>Amin Aminifar</b> and Shokri, Matin and Aminifar, Amir. "Privacy-Preserving Edge Federated Learning for Intelligent Mobile-Health Systems." Future Generation Computer Systems, 2024.
+* Shakibhamedan, Salar, Anice Jahanjoo, <b>Amin Aminifar</b>, Nima Amirafshar, Nima TaheriNejad, Axel Jantsch. "An Analytical Approach to Enhancing DNN Efficiency and Accuracy Using Approximate Multiplication" Workshop on Advancing Neural Network Training: Computational Efficiency, Scalability, and Resource Optimization (WANT@ICML), 2024.
+* Shakibhamedan, Salar, <b>Amin Aminifar</b> and Luke Vassallo and Nima TaheriNejad. "Harnessing Approximate Computing for Machine Learning." IEEE Computer Society Annual Symposium on VLSI (ISVLSI), 2024.
+* Khooyooz, Soheil, Jahanjoo, Anice, <b>Amin Aminifar</b>, TaheriNejad, Nima. "A Novel Machine-Learning-Based Noise Detection Method for Photoplethysmography Signals." 2024 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 2024.
 * <b>Amin Aminifar</b>, Khooyooz, Soheil, Jahanjoo, Anice, Shakibhamedan, Salar, TaheriNejad, Nima. "RecogNoise: Machine-Learning-Based Recognition of Noisy Segments in Electrocardiogram Signals." IEEE International Symposium on Circuits and Systems (ISCAS), 2024.
 * Jahanjoo, Anice, TaheriNejad, Nima, <b>Amin Aminifar</b>. "High-Accuracy Stress Detection Using Wrist-Worn PPG Sensors." IEEE International Symposium on Circuits and Systems (ISCAS), 2024.
 * <b>Amin Aminifar</b>, Shokri, Matin, Rabbi, Fazle, Pun, Violet Ka I, Lamo, Yngve. "Extremely Randomized Trees With Privacy Preservation for Distributed Structured Health Data." IEEE Access, 2022, pp. 6010-6027.
