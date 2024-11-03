@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 ## Journal articles
-**
+***
 * Shakibhamedan, Salar, <b>Amin Aminifar</b>, Nima Taherinejad, Axel Jantsch. "EASE: Energy Optimization through Adaptation – A Review of Runtime Energy-Aware Approximate Deep Learning Algorithms." TechRxiv, pp. 1-19, 2024. DOI: 10.36227/techrxiv.170723230.09169589/v1
 * Traunmueller, Peter, Anice Jahanjoo, Soheil Khooyooz, <b>Amin Aminifar</b>, Nima TaheriNejad. "Wearable Healthcare Devices for Monitoring Stress and Concentration Level in Workplace Environments." arXiv 2406.05813, 2024.
 * <b>Amin Aminifar</b>, Matin Shokri, Amir Aminifar. "Privacy-Preserving Edge Federated Learning for Intelligent Mobile-Health Systems." In Future Generation Computer Systems, pp. 625-637. 2024. <a href="https://github.com/shokri-matin/Fed-eGlass"><img src="https://github.com/AminAminifar/info/blob/master/files/icons/github-icon.png?raw=true" width="15" height="15"><sub>Code</sub></a>
