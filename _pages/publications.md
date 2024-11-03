@@ -15,7 +15,7 @@ author_profile: true
 * Traunmueller, Peter, Anice Jahanjoo, Soheil Khooyooz, <b>Amin Aminifar</b>, Nima TaheriNejad. "Wearable Healthcare Devices for Monitoring Stress and Concentration Level in Workplace Environments." arXiv 2406.05813, 2024.
 * <b>Amin Aminifar</b>, Matin Shokri, Amir Aminifar. "Privacy-Preserving Edge Federated Learning for Intelligent Mobile-Health Systems." In Future Generation Computer Systems, pp. 625-637. 2024.
 <a href="https://www.sciencedirect.com/science/article/pii/S0167739X24003972?via%3Dihub"><img src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" width="15" height="15"><sub>File</sub></a>
-<a href="https://github.com/AminAminifar/info/blob/master/files/my%20papers'%20BibTeX/aminifar2024privacy_FGCS.bib" download><img src="https://github.com/AminAminifar/info/blob/master/files/icons/quote-icon.png?raw=true" width="15" height="15"><sub>BibTeX</sub></a>
+<a href="https://raw.githubusercontent.com/AminAminifar/info/blob/master/files/my%20papers'%20BibTeX/aminifar2024privacy_FGCS.bib" download><img src="https://github.com/AminAminifar/info/blob/master/files/icons/quote-icon.png?raw=true" width="15" height="15"><sub>BibTeX</sub></a>
 <a href="https://github.com/shokri-matin/Fed-eGlass"><img src="https://github.com/AminAminifar/info/blob/master/files/icons/github-icon.png?raw=true" width="15" height="15"><sub>Code</sub></a>
 <a href="https://www.youtube.com/watch?v=goe1k5rvxnc"><img src="https://github.com/AminAminifar/info/blob/master/files/icons/video-icon.png?raw=true" width="15" height="15"><sub>Video</sub></a>
 * <b>Amin Aminifar</b>, Shokri, Matin, Rabbi, Fazle, Pun, Violet Ka I, Lamo, Yngve. "Extremely Randomized Trees With Privacy Preservation for Distributed Structured Health Data." IEEE Access, 2022, pp. 6010-6027.
@@ -41,15 +41,15 @@ author_profile: true
 * <b>Amin Aminifar</b>, Lamo, Yngve, Pun, Ka I, Rabbi, Fazle. "A Practical Methodology for Anonymization of Structured Health Data." 2019 17th Scandinavian Conference on Health Informatics (SHI), 2019, pp. 127-133.
 * Sopic, Dionisije, <b>Amin Aminifar</b>, Aminifar, Amir, Atienza, David. "Real-time classification technique for early detection and prevention of myocardial infarction on wearable devices." 2017 IEEE Biomedical Circuits and Systems Conference (BioCAS), 2017, pp. 1-4.
 
-## Workshop Contributions
+### Workshop Contributions
 ***
 * Shakibhamedan, Salar, Anice Jahanjoo, <b>Amin Aminifar</b>, Nima Amirafshar, Nima TaheriNejad, Axel Jantsch. "An Analytical Approach to Enhancing DNN Efficiency and Accuracy Using Approximate Multiplication" Workshop on Advancing Neural Network Training: Computational Efficiency, Scalability, and Resource Optimization (WANT@ICML), 2024.
 
-## Chapters in scientific books
+### Chapters in scientific books
 ***
 * Mukhiya, Suresh Kumar, <b>Amin Aminifar</b>, Rabbi, Fazle, Pun, Violet Ka I, Lamo, Yngve. "Artificial Intelligence in Mental Health." Artificial Intelligence: Models, Algorithms and Applications, 2021, pp. 13.
 
-## Other publications
+### Other publications
 ***
 * <b>Amin Aminifar</b>. "Privacy-Preserving Machine Learning and Data Sharing in Healthcare Applications." Ph.D. Thesis, 2022.
 
