@@ -19,6 +19,10 @@ author_profile: true
 <a href="https://github.com/shokri-matin/Fed-eGlass"><img src="https://github.com/AminAminifar/info/blob/master/files/icons/github-icon.png?raw=true" width="15" height="15"><sub>Code</sub></a>
 <a href="https://www.youtube.com/watch?v=goe1k5rvxnc"><img src="https://github.com/AminAminifar/info/blob/master/files/icons/video-icon.png?raw=true" width="15" height="15"><sub>Video</sub></a>
 * <b>Amin Aminifar</b>, Shokri, Matin, Rabbi, Fazle, Pun, Violet Ka I, Lamo, Yngve. "Extremely Randomized Trees With Privacy Preservation for Distributed Structured Health Data." IEEE Access, 2022, pp. 6010-6027.
+<a href="https://ieeexplore.ieee.org/abstract/document/9676691"><img src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" width="15" height="15"><sub>File</sub></a>
+<a href="https://raw.githubusercontent.com/AminAminifar/info/refs/heads/master/files/my%20papers'%20BibTeX/aminifar2022extremely.bib" download><img src="https://github.com/AminAminifar/info/blob/master/files/icons/quote-icon.png?raw=true" width="15" height="15"><sub>BibTeX</sub></a>
+<a href="https://github.com/AminAminifar/kPPDERT_cloud"><img src="https://github.com/AminAminifar/info/blob/master/files/icons/github-icon.png?raw=true" width="15" height="15"><sub>Code</sub></a>
+<a href="https://youtu.be/DXpXzp9nnf4"><img src="https://github.com/AminAminifar/info/blob/master/files/icons/video-icon.png?raw=true" width="15" height="15"><sub>Video</sub></a>
 * Lamo, Yngve, et al. "Towards adaptive technology in routine mental health care." DIGITAL HEALTH, 2022, pp. 20552076221128678.
 * Nordgreen, Tine, et al. "Challenges and possible solutions in cross-disciplinary and cross-sectorial research teams within the domain of e-mental health." Journal of Enabling Technologies, 2021, pp. 241-251.
 * Shokri, Matin, Khasteh, Seyed Hossein, <b>Amin Aminifar</b>. "Adaptive Fuzzy Watkins: A New Adaptive Approach for Eligibility Traces in Reinforcement Learning." International Journal of Fuzzy Systems, 2019, pp. 1443-1454.
