@@ -20,9 +20,9 @@ author_profile: true
 * Shokri, Matin, Khasteh, Seyed Hossein, <b>Amin Aminifar</b>. "Adaptive Fuzzy Watkins: A New Adaptive Approach for Eligibility Traces in Reinforcement Learning." International Journal of Fuzzy Systems, 2019, pp. 1443-1454.
 * Sopic, Dionisije, <b>Amin Aminifar</b>, Aminifar, Amir, Atienza, David. "Real-Time Event-Driven Classification Technique for Early Detection and Prevention of Myocardial Infarction on Wearable Systems." IEEE Transactions on Biomedical Circuits and Systems (TBioCAS), 2018, pp. 982-992.
 
---
-## Conference contributions
 
+## Conference contributions
+***
 * Abtahi, Azra, <b>Amin Aminifar</b>, Amir Aminifar. "Privacy-Preserving Federated Interpretability." In IEEE Big Data, 2024.
 * <b>Amin Aminifar</b>, Baichuan Huang, Azra Abtahi, Amir Aminifar. "LightFF: Lightweight Inference for Forward-Forward Algorithm." In 27th European Conference on Artificial Intelligence, pp. 1728-1735. 2024.
 * * Shakibhamedan, Salar, <b>Amin Aminifar</b> and Luke Vassallo and Nima TaheriNejad. "Harnessing Approximate Computing for Machine Learning." IEEE Computer Society Annual Symposium on VLSI (ISVLSI), 2024.
@@ -40,18 +40,23 @@ author_profile: true
 --
 
 ## Workshop Contributions
+***
 * Shakibhamedan, Salar, Anice Jahanjoo, <b>Amin Aminifar</b>, Nima Amirafshar, Nima TaheriNejad, Axel Jantsch. "An Analytical Approach to Enhancing DNN Efficiency and Accuracy Using Approximate Multiplication" Workshop on Advancing Neural Network Training: Computational Efficiency, Scalability, and Resource Optimization (WANT@ICML), 2024.
---
+
 ## Chapters in scientific books
+***
 * Mukhiya, Suresh Kumar, <b>Amin Aminifar</b>, Rabbi, Fazle, Pun, Violet Ka I, Lamo, Yngve. "Artificial Intelligence in Mental Health." Artificial Intelligence: Models, Algorithms and Applications, 2021, pp. 13.
---
+
 ## Other publications
+***
 * <b>Amin Aminifar</b>. "Privacy-Preserving Machine Learning and Data Sharing in Healthcare Applications." Ph.D. Thesis, 2022.
---
+
+
+<!--
 * Shakibhamedan, Salar, <b>Amin Aminifar</b>, Nima Taherinejad, Axel Jantsch. "EASE: Energy Optimization through Adaptation – A Review of Runtime Energy-Aware Approximate Deep Learning Algorithms." TechRxiv, pp. 1-19, 2024. DOI: 10.36227/techrxiv.170723230.09169589/v1
 * Traunmueller, Peter, Anice Jahanjoo, Soheil Khooyooz, <b>Amin Aminifar</b>, Nima TaheriNejad. "Wearable Healthcare Devices for Monitoring Stress and Concentration Level in Workplace Environments." arXiv 2406.05813, 2024.
 * Abtahi, Azra, <b>Amin Aminifar</b>, Amir Aminifar. "Privacy-Preserving Federated Interpretability." In IEEE Big Data, 2024.
-* <b>Amin Aminifar</b>, Matin Shokri, Amir Aminifar. "Privacy-Preserving Edge Federated Learning for Intelligent Mobile-Health Systems." In Future Generation Computer Systems, pp. 625-637. 2024. <a href="https://github.com/shokri-matin/Fed-eGlass"><img src="https://github.com/AminAminifar/info/blob/master/files/icons/github-icon.png?raw=true" width="15" height="15"><sub>Code</sub></a> <!--[![GitHub](https://cdn-icons-png.flaticon.com/512/25/25231.png)](https://github.com/shokri-matin/Fed-eGlass)-->
+* <b>Amin Aminifar</b>, Matin Shokri, Amir Aminifar. "Privacy-Preserving Edge Federated Learning for Intelligent Mobile-Health Systems." In Future Generation Computer Systems, pp. 625-637. 2024. <a href="https://github.com/shokri-matin/Fed-eGlass"><img src="https://github.com/AminAminifar/info/blob/master/files/icons/github-icon.png?raw=true" width="15" height="15"><sub>Code</sub></a> 
 * <b>Amin Aminifar</b>, Baichuan Huang, Azra Abtahi, Amir Aminifar. "LightFF: Lightweight Inference for Forward-Forward Algorithm." In 27th European Conference on Artificial Intelligence, pp. 1728-1735. 2024.
 * Shakibhamedan, Salar, Anice Jahanjoo, <b>Amin Aminifar</b>, Nima Amirafshar, Nima TaheriNejad, Axel Jantsch. "An Analytical Approach to Enhancing DNN Efficiency and Accuracy Using Approximate Multiplication" Workshop on Advancing Neural Network Training: Computational Efficiency, Scalability, and Resource Optimization (WANT@ICML), 2024.
 * Shakibhamedan, Salar, <b>Amin Aminifar</b> and Luke Vassallo and Nima TaheriNejad. "Harnessing Approximate Computing for Machine Learning." IEEE Computer Society Annual Symposium on VLSI (ISVLSI), 2024.
@@ -72,4 +77,6 @@ author_profile: true
 * <b>Amin Aminifar</b>, Lamo, Yngve, Pun, Ka I, Rabbi, Fazle. "A Practical Methodology for Anonymization of Structured Health Data." 2019 17th Scandinavian Conference on Health Informatics (SHI), 2019, pp. 127-133.
 * Sopic, Dionisije, <b>Amin Aminifar</b>, Aminifar, Amir, Atienza, David. "Real-Time Event-Driven Classification Technique for Early Detection and Prevention of Myocardial Infarction on Wearable Systems." IEEE Transactions on Biomedical Circuits and Systems (TBioCAS), 2018, pp. 982-992.
 * Sopic, Dionisije, <b>Amin Aminifar</b>, Aminifar, Amir, Atienza, David. "Real-time classification technique for early detection and prevention of myocardial infarction on wearable devices." 2017 IEEE Biomedical Circuits and Systems Conference (BioCAS), 2017, pp. 1-4.
+-->
+<!--[![GitHub](https://cdn-icons-png.flaticon.com/512/25/25231.png)](https://github.com/shokri-matin/Fed-eGlass)-->
 
