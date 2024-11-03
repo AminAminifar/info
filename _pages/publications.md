@@ -9,7 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-## Journal articles
+### Journal articles
 ***
 * Shakibhamedan, Salar, <b>Amin Aminifar</b>, Nima Taherinejad, Axel Jantsch. "EASE: Energy Optimization through Adaptation – A Review of Runtime Energy-Aware Approximate Deep Learning Algorithms." TechRxiv, pp. 1-19, 2024. DOI: 10.36227/techrxiv.170723230.09169589/v1
 * Traunmueller, Peter, Anice Jahanjoo, Soheil Khooyooz, <b>Amin Aminifar</b>, Nima TaheriNejad. "Wearable Healthcare Devices for Monitoring Stress and Concentration Level in Workplace Environments." arXiv 2406.05813, 2024.
@@ -25,7 +25,7 @@ author_profile: true
 * Sopic, Dionisije, <b>Amin Aminifar</b>, Aminifar, Amir, Atienza, David. "Real-Time Event-Driven Classification Technique for Early Detection and Prevention of Myocardial Infarction on Wearable Systems." IEEE Transactions on Biomedical Circuits and Systems (TBioCAS), 2018, pp. 982-992.
 
 
-## Conference contributions
+### Conference contributions
 ***
 * Abtahi, Azra, <b>Amin Aminifar</b>, Amir Aminifar. "Privacy-Preserving Federated Interpretability." In IEEE Big Data, 2024.
 * <b>Amin Aminifar</b>, Baichuan Huang, Azra Abtahi, Amir Aminifar. "LightFF: Lightweight Inference for Forward-Forward Algorithm." In 27th European Conference on Artificial Intelligence, pp. 1728-1735. 2024.
