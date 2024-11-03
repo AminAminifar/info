@@ -17,7 +17,7 @@ author_profile: true
 <a href="https://www.sciencedirect.com/science/article/pii/S0167739X24003972?via%3Dihub"><img src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" width="15" height="15"><sub>File</sub></a>
 <a href="https://github.com/AminAminifar/info/blob/master/files/my%20papers'%20BibTeX/aminifar2024privacy_FGCS.bib"><img src="https://github.com/AminAminifar/info/blob/master/files/icons/quote-icon.png?raw=true" width="15" height="15"><sub>BibTeX</sub></a>
 <a href="https://github.com/shokri-matin/Fed-eGlass"><img src="https://github.com/AminAminifar/info/blob/master/files/icons/github-icon.png?raw=true" width="15" height="15"><sub>Code</sub></a>
-<a href="https://www.youtube.com/watch?v=goe1k5rvxnc"><img src="https://github.com/AminAminifar/info/blob/master/files/icons/video-icon.png?raw=true" width="15" height="15"><sub>Video</sub></a>
+<a href="https://www.youtube.com/watch?v=goe1k5rvxnc"><img src="https://github.com/AminAminifar/info/blob/master/files/icons/video-icon.png?raw=true" width="15" height="15"><sub> Video</sub></a>
 * <b>Amin Aminifar</b>, Shokri, Matin, Rabbi, Fazle, Pun, Violet Ka I, Lamo, Yngve. "Extremely Randomized Trees With Privacy Preservation for Distributed Structured Health Data." IEEE Access, 2022, pp. 6010-6027.
 * Lamo, Yngve, et al. "Towards adaptive technology in routine mental health care." DIGITAL HEALTH, 2022, pp. 20552076221128678.
 * Nordgreen, Tine, et al. "Challenges and possible solutions in cross-disciplinary and cross-sectorial research teams within the domain of e-mental health." Journal of Enabling Technologies, 2021, pp. 241-251.
