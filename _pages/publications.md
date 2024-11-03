@@ -13,15 +13,13 @@ author_profile: true
 ***
 * Shakibhamedan, Salar, <b>Amin Aminifar</b>, Nima Taherinejad, Axel Jantsch. "EASE: Energy Optimization through Adaptation – A Review of Runtime Energy-Aware Approximate Deep Learning Algorithms." TechRxiv, pp. 1-19, 2024. DOI: 10.36227/techrxiv.170723230.09169589/v1
 * Traunmueller, Peter, Anice Jahanjoo, Soheil Khooyooz, <b>Amin Aminifar</b>, Nima TaheriNejad. "Wearable Healthcare Devices for Monitoring Stress and Concentration Level in Workplace Environments." arXiv 2406.05813, 2024.
-* <b>Amin Aminifar</b>, Matin Shokri, Amir Aminifar. "Privacy-Preserving Edge Federated Learning for Intelligent Mobile-Health Systems." In Future Generation Computer Systems, pp. 625-637. 2024.
-<!--
+* <b>Amin Aminifar</b>, Matin Shokri, Amir Aminifar. "Privacy-Preserving Edge Federated Learning for Intelligent Mobile-Health Systems." In Future Generation Computer Systems, pp. 625-637. 2024.<!--
 <a href="https://www.sciencedirect.com/science/article/pii/S0167739X24003972?via%3Dihub"><img src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" width="15" height="15"><sub>File</sub></a>
 <a href="https://raw.githubusercontent.com/AminAminifar/info/refs/heads/master/files/my%20papers'%20BibTeX/aminifar2024privacy_FGCS.bib" download><img src="https://github.com/AminAminifar/info/blob/master/files/icons/quote-icon.png?raw=true" width="15" height="15"><sub>BibTeX</sub></a>
 <a href="https://github.com/shokri-matin/Fed-eGlass"><img src="https://github.com/AminAminifar/info/blob/master/files/icons/github-icon.png?raw=true" width="15" height="15"><sub>Code</sub></a>
 <a href="https://www.youtube.com/watch?v=goe1k5rvxnc"><img src="https://github.com/AminAminifar/info/blob/master/files/icons/video-icon.png?raw=true" width="15" height="15"><sub>Video</sub></a>
 -->
-* <b>Amin Aminifar</b>, Shokri, Matin, Rabbi, Fazle, Pun, Violet Ka I, Lamo, Yngve. "Extremely Randomized Trees With Privacy Preservation for Distributed Structured Health Data." IEEE Access, 2022, pp. 6010-6027.
-<!--
+* <b>Amin Aminifar</b>, Shokri, Matin, Rabbi, Fazle, Pun, Violet Ka I, Lamo, Yngve. "Extremely Randomized Trees With Privacy Preservation for Distributed Structured Health Data." IEEE Access, 2022, pp. 6010-6027.<!--
 <a href="https://ieeexplore.ieee.org/abstract/document/9676691"><img src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" width="15" height="15"><sub>File</sub></a>
 <a href="https://raw.githubusercontent.com/AminAminifar/info/refs/heads/master/files/my%20papers'%20BibTeX/aminifar2022extremely.bib" download><img src="https://github.com/AminAminifar/info/blob/master/files/icons/quote-icon.png?raw=true" width="15" height="15"><sub>BibTeX</sub></a>
 <a href="https://github.com/AminAminifar/kPPDERT_cloud"><img src="https://github.com/AminAminifar/info/blob/master/files/icons/github-icon.png?raw=true" width="15" height="15"><sub>Code</sub></a>
