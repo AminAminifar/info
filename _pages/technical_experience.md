@@ -14,6 +14,7 @@ author_profile: true
 * Session chair in IEEE International Conference on Omni-Layer Intelligent Systems 2023
 * Program Committee Member in IEEE International Conference on Omni-Layer Intelligent Systems 2023
 * Reviewer in ACM Computing Surveys
+* Reviewer in ACM Transactions on Embedded Computing Systems
 * Reviewer in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
 * Reviewer in IEEE Transactions on Mobile Computing
 * Reviewer in Journal of Biomedical and Health Informatics
