@@ -14,5 +14,15 @@ Research Topics
 * Privacy-preserving federated learning and distributed machine learning
 * Machine learning in resource-constrained devices 
 * Machine learning in the healthcare domain
-  
+
+
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BZV33EZ8RT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-BZV33EZ8RT');
+</script>
 
