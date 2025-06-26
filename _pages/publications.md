@@ -11,6 +11,7 @@ author_profile: true
 
 * <b>Amin Aminifar</b>, Jonathan Dan, David Atienza. "Federated Learning with Patient-Annotated Data in Epileptic Seizure Detection." In International Joint Conference on Neural Networks (IJCNN), 2025.
 * Anahita Baninajjar, <b>Amin Aminifar</b>, Kamran Hosseini, Amir Aminifar, Ahmed Rezine. "Robustness and Privacy Interplay in Patient Membership Inference." In International Joint Conference on Neural Networks (IJCNN), 2025.
+* Fatemeh Akbarian, Robbe Vlaeminck, Joran Verheijen, <b>Amin Aminifar</b>, Amir Aminifar. "Federated Learning for Obstacle Detection to Assist the Visually-Impaired Using Augmented Reality." In 28th Euromicro Conference on Digital System Design (DSD), 2025.
 * Soheil Khooyooz, Vimala Bauer, Anice Jahanjoo, Mostafa Haghi, <b>Amin Aminifar</b>, Nima TaheriNejad. "IDNoise: Resource-Aware Machine Learning-Based Noise and SNR Detection in Electrocardiogram Signals." In 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2025.
 * <b>Amin Aminifar</b>, Matin Shokri, Amir Aminifar. "Privacy-Preserving Edge Federated Learning for Intelligent Mobile-Health Systems." In Future Generation Computer Systems (<i>Impact Factor: 6.2</i>), 2024.
 * Abtahi, Azra, <b>Amin Aminifar</b>, Amir Aminifar. "Privacy-Preserving Federated Interpretability." In IEEE International Conference on Big Data (BigData), 2024.
