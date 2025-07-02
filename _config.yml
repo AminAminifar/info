@@ -190,9 +190,9 @@ collections:
   technical_experience:
     output: true
     permalink: /:collection/:path/
-  contact:
-    output: true
-    permalink: /:collection/:path/
+  # contact:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 # Defaults
