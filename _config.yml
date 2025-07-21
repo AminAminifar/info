@@ -190,7 +190,7 @@ collections:
   technical_experience:
     output: true
     permalink: /:collection/:path/
-  # contact:
+  # contact:  # should be updated later
   #   output: true  
   #   permalink: /:collection/:path/
 
@@ -260,7 +260,7 @@ defaults:
       share: true
       comments: true
   # _contact
-  # - scope:
+  # - scope:  # should be updated later
   #     path: ""
   #     type: pages
   #   values:
