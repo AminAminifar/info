@@ -3,7 +3,7 @@ layout: archive
 title: "Contact"
 permalink: /contact/
 author_profile: true
-published: false
+published: false  # should be updated later
 ---
 Email: firstname.lastname[at]uni-heidelberg.de
 
