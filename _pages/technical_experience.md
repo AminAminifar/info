@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Technical Experience"
+title: "Services"  # title: "Technical Experience"
 permalink: /technical_experience/
 author_profile: true
 ---
