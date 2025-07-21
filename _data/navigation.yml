@@ -12,8 +12,8 @@ main:
   - title: "Technical Experience"
     url: /technical_experience/   
 
-  - title: "Contact"
-    url: /contact/   
+  # - title: "Contact"  # should be updated later
+  #   url: /contact/   
     
   # - title: "Portfolio"
   #   url: /portfolio/
