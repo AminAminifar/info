@@ -9,6 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+{: .justified }
 * <b>Amin Aminifar</b>, Jonathan Dan, David Atienza. "Federated Learning with Patient-Annotated Data in Epileptic Seizure Detection." In International Joint Conference on Neural Networks (IJCNN), 2025.
 * Anahita Baninajjar, <b>Amin Aminifar</b>, Kamran Hosseini, Amir Aminifar, Ahmed Rezine. "Robustness and Privacy Interplay in Patient Membership Inference." In International Joint Conference on Neural Networks (IJCNN), 2025.
 * Fatemeh Akbarian, Robbe Vlaeminck, Joran Verheijen, <b>Amin Aminifar</b>, Amir Aminifar. "Federated Learning for Obstacle Detection to Assist the Visually-Impaired Using Augmented Reality." In 28th Euromicro Conference on Digital System Design (DSD), 2025.
