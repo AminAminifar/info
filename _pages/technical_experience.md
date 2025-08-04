@@ -17,9 +17,10 @@ author_profile: true
 * Reviewer in ACM Transactions on Embedded Computing Systems
 * Reviewer in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
 * Reviewer in IEEE Transactions on Mobile Computing
-* Reviewer in Journal of Biomedical and Health Informatics
+* Reviewer in IEEE Journal of Biomedical and Health Informatics
 * Reviewer in IEEE Internet of Things Journal
 * Reviewer in IEEE Transactions on Emerging Topics in Computing
-* Reviewer in Scientific Reports
-* Reviewer in Computer (Publisher: IEEE Computer Society)
+* Reviewer in Scientific Reports (Nature Portfolio)
+* Reviewer in Computer (IEEE Computer Society)
+
 
