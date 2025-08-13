@@ -9,7 +9,7 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Services"  # title: "Technical Experience"
+  - title: "Academic Service"  # title: "Technical Experience"
     url: /technical_experience/   
 
   # - title: "Contact"  # should be updated later
