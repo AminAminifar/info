@@ -16,7 +16,7 @@ author_profile: true
 * Soheil Khooyooz, Vimala Bauer, Anice Jahanjoo, Mostafa Haghi, <b>Amin Aminifar</b>, Nima TaheriNejad. "IDNoise: Resource-Aware Machine Learning-Based Noise and SNR Detection in Electrocardiogram Signals." In 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2025.
   
 * <b>Amin Aminifar</b>, Matin Shokri, Amir Aminifar. "Privacy-Preserving Edge Federated Learning for Intelligent Mobile-Health Systems." In Future Generation Computer Systems (<i>Impact Factor: 6.1</i>), 2024.
-* * <b>Amin Aminifar</b>, Baichuan Huang, Azra Abtahi, Amir Aminifar. "LightFF: Lightweight Inference for Forward-Forward Algorithm." In 27th European Conference on Artificial Intelligence (<i>Acceptance Rate: 23%</i>), 2024.
+* <b>Amin Aminifar</b>, Baichuan Huang, Azra Abtahi, Amir Aminifar. "LightFF: Lightweight Inference for Forward-Forward Algorithm." In 27th European Conference on Artificial Intelligence (<i>Acceptance Rate: 23%</i>), 2024.
 * Abtahi, Azra, <b>Amin Aminifar</b>, Amir Aminifar. "Privacy-Preserving Federated Interpretability." In IEEE International Conference on Big Data (BigData), 2024.
 * Shakibhamedan, Salar, <b>Amin Aminifar</b> and Luke Vassallo and Nima TaheriNejad. "Harnessing Approximate Computing for Machine Learning." IEEE Computer Society Annual Symposium on VLSI (ISVLSI), 2024.
 * Khooyooz, Soheil, Jahanjoo, Anice, <b>Amin Aminifar</b>, TaheriNejad, Nima. "A Novel Machine-Learning-Based Noise Detection Method for Photoplethysmography Signals." 2024 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 2024.
@@ -35,9 +35,9 @@ author_profile: true
 * Forooghifar, Farnaz, <b>Amin Aminifar</b>, Teijeiro, Tomas, Aminifar, Amir, Jeppesen, Jesper, Beniczky, Sandor, Atienza, David. "Self-Aware Anomaly-Detection for Epilepsy Monitoring on Low-Power Wearable Electrocardiographic Devices." 2021 IEEE 3rd International Conference on Artificial Intelligence Circuits and Systems (AICAS), 2021.
 * Nordgreen, Tine, et al. "Challenges and possible solutions in cross-disciplinary and cross-sectorial research teams within the domain of e-mental health." Journal of Enabling Technologies, 2021.
 * Mukhiya, Suresh Kumar, <b>Amin Aminifar</b>, Rabbi, Fazle, Pun, Violet Ka I, Lamo, Yngve. "Artificial Intelligence in Mental Health." Artificial Intelligence: Models, Algorithms and Applications, 2021.
-  
-* Shokri, Matin, Khasteh, Seyed Hossein, <b>Amin Aminifar</b>. "Adaptive Fuzzy Watkins: A New Adaptive Approach for Eligibility Traces in Reinforcement Learning." International Journal of Fuzzy Systems, 2019.
+
 * <b>Amin Aminifar</b>, Lamo, Yngve, Pun, Ka I, Rabbi, Fazle. "A Practical Methodology for Anonymization of Structured Health Data." 2019 17th Scandinavian Conference on Health Informatics (SHI), 2019.
+* Shokri, Matin, Khasteh, Seyed Hossein, <b>Amin Aminifar</b>. "Adaptive Fuzzy Watkins: A New Adaptive Approach for Eligibility Traces in Reinforcement Learning." International Journal of Fuzzy Systems, 2019.
 
 * Sopic, Dionisije, <b>Amin Aminifar</b>, Aminifar, Amir, Atienza, David. "Real-Time Event-Driven Classification Technique for Early Detection and Prevention of Myocardial Infarction on Wearable Systems." IEEE Transactions on Biomedical Circuits and Systems (TBioCAS), 2018.
   
