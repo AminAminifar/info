@@ -12,7 +12,7 @@ author_profile: true
 {: .justified }
 <!-- 2025 -->
 * <b>Amin Aminifar</b>, Jonathan Dan, David Atienza. "Federated Learning with Patient-Annotated Data in Epileptic Seizure Detection." In International Joint Conference on Neural Networks (IJCNN), 2025.
-[<img src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" alt=" PDF" width="16" />](https://aminaminifar.github.io/info/files/my_papers/IJCNN2025_ESL_EPFL_Heidelberg.pdf)
+[<img src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" alt=" PDF" width="16" />](https://aminaminifar.github.io/info/files/my_papers/IJCNN2025_1.pdf)
 <!-- -->
 * Anahita Baninajjar, <b>Amin Aminifar</b>, Kamran Hosseini, Amir Aminifar, Ahmed Rezine. "Robustness and Privacy Interplay in Patient Membership Inference." In International Joint Conference on Neural Networks (IJCNN), 2025.
 <!-- -->
@@ -25,6 +25,7 @@ author_profile: true
 [<img src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" alt=" PDF" width="16" />](https://www.sciencedirect.com/science/article/pii/S0167739X24003972/pdfft?md5=967d2951f36ac1c92466c6a4ee5f41a2&pid=1-s2.0-S0167739X24003972-main.pdf) | [Publisher Link](https://www.sciencedirect.com/science/article/pii/S0167739X24003972)
 <!-- -->
 * <b>Amin Aminifar</b>, Baichuan Huang, Azra Abtahi, Amir Aminifar. "LightFF: Lightweight Inference for Forward-Forward Algorithm." In 27th European Conference on Artificial Intelligence (<i>Acceptance Rate: 23%</i>), 2024.
+[<img src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" alt=" PDF" width="16" />](https://aminaminifar.github.io/info/files/my_papers/ECAI2024.pdf) | [Publisher Link](https://ebooks.iospress.nl/DOI/10.3233/FAIA240682)
 <!-- -->
 * Abtahi, Azra, <b>Amin Aminifar</b>, Amir Aminifar. "Privacy-Preserving Federated Interpretability." In IEEE International Conference on Big Data (BigData), 2024.
 <!-- -->
