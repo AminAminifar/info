@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 
-### Accepted
+### Accepted for Publication
 ---
 {: .justified }
 <!-- 2025 -->
@@ -23,6 +23,7 @@ author_profile: true
 <!-- -->
 * Soheil Khooyooz, Vimala Bauer, Anice Jahanjoo, Mostafa Haghi, <b>Amin Aminifar</b>, Nima TaheriNejad. "IDNoise: Resource-Aware Machine Learning-Based Noise and SNR Detection in Electrocardiogram Signals." In 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2025.
 ### Published
+{: .justified }
 ---
 <!-- 2024 -->
 <!-- -->
