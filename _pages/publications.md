@@ -42,26 +42,21 @@ author_profile: true
 * <b>Amin Aminifar</b>, Shokri, Matin, Rabbi, Fazle, Pun, Violet Ka I, Lamo, Yngve. "Extremely Randomized Trees With Privacy Preservation for Distributed Structured Health Data." IEEE Access, 2022.
 [<img src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" alt=" PDF" width="16" />](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9676691) | [Publisher Link](https://ieeexplore.ieee.org/abstract/document/9676691)
 * <b>Amin Aminifar</b>. "Privacy-Preserving Machine Learning and Data Sharing in Healthcare Applications." Ph.D. Thesis, 2022.
-<!--[<img src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" alt=" PDF" width="16" />](https://hvlopen.brage.unit.no/hvlopen-xmlui/bitstream/handle/11250/2989477/Aminifar.pdf?sequence=1&isAllowed=y) | -->
-[Publisher Link](https://hvlopen.brage.unit.no/hvlopen-xmlui/handle/11250/2989477)
+[<img src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" alt=" PDF" width="16" />](https://hvlopen.brage.unit.no/hvlopen-xmlui/bitstream/handle/11250/2989477/Aminifar.pdf?sequence=1&isAllowed=y) | [Publisher Link](https://hvlopen.brage.unit.no/hvlopen-xmlui/handle/11250/2989477)
 <!-- -->
 * Lamo, Yngve, et al. "Towards adaptive technology in routine mental health care." DIGITAL HEALTH, 2022.
 <!-- 2021 -->
 * <b>Amin Aminifar</b>, Rabbi, Fazle, Pun, Ka I, Lamo, Yngve. "Privacy preserving distributed extremely randomized trees." Proceedings of the 36th Annual ACM Symposium on Applied Computing (SAC), 2021.
-<!--[<img src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" alt=" PDF" width="16" />]() | -->
-[Publisher Link](https://dl.acm.org/doi/abs/10.1145/3412841.3442110)
+[<img src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" alt=" PDF" width="16" />](https://aminaminifar.github.io/info/files/my_papers/SAC2021.pdf) | [Publisher Link](https://dl.acm.org/doi/abs/10.1145/3412841.3442110)
 <!-- -->
 * <b>Amin Aminifar</b>, Rabbi, Fazle, Lamo, Yngve. "Scalable Privacy-Preserving Distributed Extremely Randomized Trees for Structured Data With Multiple Colluding Parties." ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021.
-<!--[<img src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" alt=" PDF" width="16" />]() | -->
-[Publisher Link](https://ieeexplore.ieee.org/document/9413632)
+[<img src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" alt=" PDF" width="16" />](https://aminaminifar.github.io/info/files/my_papers/ICASSP2021.pdf) | [Publisher Link](https://ieeexplore.ieee.org/document/9413632)
 <!-- -->
 * <b>Amin Aminifar</b>, Rabbi, Fazle, Pun, Violet Ka I, Lamo, Yngve. "Diversity-Aware Anonymization for Structured Health Data." 2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 2021.
-<!--[<img src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" alt=" PDF" width="16" />]() | -->
-[Publisher Link](https://ieeexplore.ieee.org/document/9629918)
+[<img src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" alt=" PDF" width="16" />](https://aminaminifar.github.io/info/files/my_papers/EMBC2021_2.pdf) | [Publisher Link](https://ieeexplore.ieee.org/document/9629918)
 <!-- -->
 * <b>Amin Aminifar</b>, Rabbi, Fazle, Pun, Violet Ka I, Lamo, Yngve. "Monitoring Motor Activity Data for Detecting Patients’ Depression Using Data Augmentation and Privacy-Preserving Distributed Learning." 2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 2021.
-<!--[<img src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" alt=" PDF" width="16" />]() | -->
-[Publisher Link](https://ieeexplore.ieee.org/document/9630592)
+[<img src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" alt=" PDF" width="16" />](https://aminaminifar.github.io/info/files/my_papers/EMBC2021_1.pdf) | [Publisher Link](https://ieeexplore.ieee.org/document/9630592)
 <!-- -->
 * Forooghifar, Farnaz, <b>Amin Aminifar</b>, Teijeiro, Tomas, Aminifar, Amir, Jeppesen, Jesper, Beniczky, Sandor, Atienza, David. "Self-Aware Anomaly-Detection for Epilepsy Monitoring on Low-Power Wearable Electrocardiographic Devices." 2021 IEEE 3rd International Conference on Artificial Intelligence Circuits and Systems (AICAS), 2021.
 <!-- -->
