@@ -39,6 +39,7 @@ author_profile: true
 * Shakibhamedan, Salar, Anice Jahanjoo, <b>Amin Aminifar</b>, Nima Amirafshar, Nima TaheriNejad, Axel Jantsch. "An Analytical Approach to Enhancing DNN Efficiency and Accuracy Using Approximate Multiplication" Workshop on Advancing Neural Network Training: Computational Efficiency, Scalability, and Resource Optimization (WANT@ICML), 2024.
 <!-- 2022 -->
 * <b>Amin Aminifar</b>, Shokri, Matin, Rabbi, Fazle, Pun, Violet Ka I, Lamo, Yngve. "Extremely Randomized Trees With Privacy Preservation for Distributed Structured Health Data." IEEE Access, 2022.
+[<img src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" alt=" PDF" width="16" />](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9676691) | [Publisher Link](https://ieeexplore.ieee.org/abstract/document/9676691)
 * <b>Amin Aminifar</b>. "Privacy-Preserving Machine Learning and Data Sharing in Healthcare Applications." Ph.D. Thesis, 2022.
 * Lamo, Yngve, et al. "Towards adaptive technology in routine mental health care." DIGITAL HEALTH, 2022.
 <!-- 2021 -->
