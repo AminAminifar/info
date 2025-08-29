@@ -23,8 +23,8 @@ author_profile: true
 <!-- -->
 * Soheil Khooyooz, Vimala Bauer, Anice Jahanjoo, Mostafa Haghi, <b>Amin Aminifar</b>, Nima TaheriNejad. "IDNoise: Resource-Aware Machine Learning-Based Noise and SNR Detection in Electrocardiogram Signals." In 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2025.
 ### Published
-{: .justified }
 ---
+{: .justified }
 <!-- 2024 -->
 <!-- -->
 * <b>Amin Aminifar</b>, Matin Shokri, Amir Aminifar. "Privacy-Preserving Edge Federated Learning for Intelligent Mobile-Health Systems." In Future Generation Computer Systems (<i>Impact Factor: 6.1</i>), 2024.
