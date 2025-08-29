@@ -34,6 +34,7 @@ author_profile: true
 * Khooyooz, Soheil, Jahanjoo, Anice, <b>Amin Aminifar</b>, TaheriNejad, Nima. "A Novel Machine-Learning-Based Noise Detection Method for Photoplethysmography Signals." 2024 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 2024.
 <!-- -->
 * <b>Amin Aminifar</b>, Khooyooz, Soheil, Jahanjoo, Anice, Shakibhamedan, Salar, TaheriNejad, Nima. "RecogNoise: Machine-Learning-Based Recognition of Noisy Segments in Electrocardiogram Signals." IEEE International Symposium on Circuits and Systems (ISCAS), 2024.
+[<img src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" alt=" PDF" width="16" />](https://aminaminifar.github.io/info/files/my_papers/ISCAS2024.pdf) | [Publisher Link](https://ieeexplore.ieee.org/abstract/document/10558670)
 <!-- -->
 * Jahanjoo, Anice, TaheriNejad, Nima, <b>Amin Aminifar</b>. "High-Accuracy Stress Detection Using Wrist-Worn PPG Sensors." IEEE International Symposium on Circuits and Systems (ISCAS), 2024.
 * Shakibhamedan, Salar, Anice Jahanjoo, <b>Amin Aminifar</b>, Nima Amirafshar, Nima TaheriNejad, Axel Jantsch. "An Analytical Approach to Enhancing DNN Efficiency and Accuracy Using Approximate Multiplication" Workshop on Advancing Neural Network Training: Computational Efficiency, Scalability, and Resource Optimization (WANT@ICML), 2024.
@@ -41,17 +42,31 @@ author_profile: true
 * <b>Amin Aminifar</b>, Shokri, Matin, Rabbi, Fazle, Pun, Violet Ka I, Lamo, Yngve. "Extremely Randomized Trees With Privacy Preservation for Distributed Structured Health Data." IEEE Access, 2022.
 [<img src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" alt=" PDF" width="16" />](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9676691) | [Publisher Link](https://ieeexplore.ieee.org/abstract/document/9676691)
 * <b>Amin Aminifar</b>. "Privacy-Preserving Machine Learning and Data Sharing in Healthcare Applications." Ph.D. Thesis, 2022.
+<!--[<img src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" alt=" PDF" width="16" />](https://hvlopen.brage.unit.no/hvlopen-xmlui/bitstream/handle/11250/2989477/Aminifar.pdf?sequence=1&isAllowed=y) | -->
+[Publisher Link](https://hvlopen.brage.unit.no/hvlopen-xmlui/handle/11250/2989477)
+<!-- -->
 * Lamo, Yngve, et al. "Towards adaptive technology in routine mental health care." DIGITAL HEALTH, 2022.
 <!-- 2021 -->
 * <b>Amin Aminifar</b>, Rabbi, Fazle, Pun, Ka I, Lamo, Yngve. "Privacy preserving distributed extremely randomized trees." Proceedings of the 36th Annual ACM Symposium on Applied Computing (SAC), 2021.
+<!--[<img src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" alt=" PDF" width="16" />]() | -->
+[Publisher Link](https://dl.acm.org/doi/abs/10.1145/3412841.3442110)
 <!-- -->
 * <b>Amin Aminifar</b>, Rabbi, Fazle, Lamo, Yngve. "Scalable Privacy-Preserving Distributed Extremely Randomized Trees for Structured Data With Multiple Colluding Parties." ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021.
+<!--[<img src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" alt=" PDF" width="16" />]() | -->
+[Publisher Link](https://ieeexplore.ieee.org/document/9413632)
 <!-- -->
 * <b>Amin Aminifar</b>, Rabbi, Fazle, Pun, Violet Ka I, Lamo, Yngve. "Diversity-Aware Anonymization for Structured Health Data." 2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 2021.
+<!--[<img src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" alt=" PDF" width="16" />]() | -->
+[Publisher Link](https://ieeexplore.ieee.org/document/9629918)
 <!-- -->
 * <b>Amin Aminifar</b>, Rabbi, Fazle, Pun, Violet Ka I, Lamo, Yngve. "Monitoring Motor Activity Data for Detecting Patients’ Depression Using Data Augmentation and Privacy-Preserving Distributed Learning." 2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 2021.
+<!--[<img src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" alt=" PDF" width="16" />]() | -->
+[Publisher Link](https://ieeexplore.ieee.org/document/9630592)
+<!-- -->
 * Forooghifar, Farnaz, <b>Amin Aminifar</b>, Teijeiro, Tomas, Aminifar, Amir, Jeppesen, Jesper, Beniczky, Sandor, Atienza, David. "Self-Aware Anomaly-Detection for Epilepsy Monitoring on Low-Power Wearable Electrocardiographic Devices." 2021 IEEE 3rd International Conference on Artificial Intelligence Circuits and Systems (AICAS), 2021.
+<!-- -->
 * Nordgreen, Tine, et al. "Challenges and possible solutions in cross-disciplinary and cross-sectorial research teams within the domain of e-mental health." Journal of Enabling Technologies, 2021.
+<!-- -->
 * Mukhiya, Suresh Kumar, <b>Amin Aminifar</b>, Rabbi, Fazle, Pun, Violet Ka I, Lamo, Yngve. "Artificial Intelligence in Mental Health." Artificial Intelligence: Models, Algorithms and Applications, 2021.
 <!-- 2019 -->
 * <b>Amin Aminifar</b>, Lamo, Yngve, Pun, Ka I, Rabbi, Fazle. "A Practical Methodology for Anonymization of Structured Health Data." 2019 17th Scandinavian Conference on Health Informatics (SHI), 2019.
@@ -59,8 +74,12 @@ author_profile: true
 * Shokri, Matin, Khasteh, Seyed Hossein, <b>Amin Aminifar</b>. "Adaptive Fuzzy Watkins: A New Adaptive Approach for Eligibility Traces in Reinforcement Learning." International Journal of Fuzzy Systems, 2019.
 <!-- 2018 -->
 * Sopic, Dionisije, <b>Amin Aminifar</b>, Aminifar, Amir, Atienza, David. "Real-Time Event-Driven Classification Technique for Early Detection and Prevention of Myocardial Infarction on Wearable Systems." IEEE Transactions on Biomedical Circuits and Systems (TBioCAS), 2018.
+<!--[<img src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" alt=" PDF" width="16" />]() | -->
+[Publisher Link](https://ieeexplore.ieee.org/document/8411147)
 <!-- 2017 -->
 * Sopic, Dionisije, <b>Amin Aminifar</b>, Aminifar, Amir, Atienza, David. "Real-time classification technique for early detection and prevention of myocardial infarction on wearable devices." 2017 IEEE Biomedical Circuits and Systems Conference (BioCAS), 2017.
+<!--[<img src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" alt=" PDF" width="16" />]() | -->
+[Publisher Link](https://ieeexplore.ieee.org/document/8325140)
 <!-- unpublished -->
 * Shakibhamedan, Salar, <b>Amin Aminifar</b>, Nima Taherinejad, Axel Jantsch. "EASE: Energy Optimization through Adaptation – A Review of Runtime Energy-Aware Approximate Deep Learning Algorithms." TechRxiv, 2024. DOI: 10.36227/techrxiv.170723230.09169589/v1
 * Traunmueller, Peter, Anice Jahanjoo, Soheil Khooyooz, <b>Amin Aminifar</b>, Nima TaheriNejad. "Wearable Healthcare Devices for Monitoring Stress and Concentration Level in Workplace Environments." arXiv 2406.05813, 2024.
