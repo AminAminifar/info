@@ -15,6 +15,7 @@ author_profile: true
 [<img src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" alt=" PDF" width="16" />](https://github.com/AminAminifar/info/blob/master/files/my_papers/IJCNN2025_ESL_EPFL_Heidelberg.pdf?raw=true)
 <!-- -->
 * Anahita Baninajjar, <b>Amin Aminifar</b>, Kamran Hosseini, Amir Aminifar, Ahmed Rezine. "Robustness and Privacy Interplay in Patient Membership Inference." In International Joint Conference on Neural Networks (IJCNN), 2025.
+[<img src="https://raw.githubusercontent.com/AminAminifar/info/master/files/icons/pdf-icon.png?raw=true" alt="PDF" width="16" />](https://raw.githubusercontent.com/AminAminifar/info/master/files/my_papers/IJCNN2025_ESL_EPFL_Heidelberg.pdf)
 <!-- -->
 * Fatemeh Akbarian, Robbe Vlaeminck, Joran Verheijen, <b>Amin Aminifar</b>, Amir Aminifar. "Federated Learning for Obstacle Detection to Assist the Visually-Impaired Using Augmented Reality." In 28th Euromicro Conference on Digital System Design (DSD), 2025.
 <!-- -->
