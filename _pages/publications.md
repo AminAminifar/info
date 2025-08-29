@@ -9,9 +9,10 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-{: .justified }
+
 ### Accepted
 ---
+{: .justified }
 <!-- 2025 -->
 * <b>Amin Aminifar</b>, Jonathan Dan, David Atienza. "Federated Learning with Patient-Annotated Data in Epileptic Seizure Detection." In International Joint Conference on Neural Networks (IJCNN), 2025.
 [<img src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" alt=" PDF" width="16" />](https://aminaminifar.github.io/info/files/my_papers/IJCNN2025_1.pdf)
