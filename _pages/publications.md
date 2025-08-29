@@ -17,10 +17,7 @@ author_profile: true
 * Soheil Khooyooz, Vimala Bauer, Anice Jahanjoo, Mostafa Haghi, <b>Amin Aminifar</b>, Nima TaheriNejad. "IDNoise: Resource-Aware Machine Learning-Based Noise and SNR Detection in Electrocardiogram Signals." In 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2025.
 <!-- 2024 -->
 * <b>Amin Aminifar</b>, Matin Shokri, Amir Aminifar. "Privacy-Preserving Edge Federated Learning for Intelligent Mobile-Health Systems." In Future Generation Computer Systems (<i>Impact Factor: 6.1</i>), 2024.
-<a src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" width="15" height="15"><sub>File</sub></a>
-<a href="https://raw.githubusercontent.com/AminAminifar/info/refs/heads/master/files/my%20papers'%20BibTeX/aminifar2024privacy_FGCS.bib" download><img src="https://github.com/AminAminifar/info/blob/master/files/icons/quote-icon.png?raw=true" width="15" height="15"><sub>BibTeX</sub></a>
-<a href="https://github.com/shokri-matin/Fed-eGlass"><img src="https://github.com/AminAminifar/info/blob/master/files/icons/github-icon.png?raw=true" width="15" height="15"><sub>Code</sub></a>
-<a href="https://www.youtube.com/watch?v=goe1k5rvxnc"><img src="https://github.com/AminAminifar/info/blob/master/files/icons/video-icon.png?raw=true" width="15" height="15"><sub>Video</sub></a>
+[<img src="files/icons/pdf-icon.png" alt="PDF" width="16" />](https://www.sciencedirect.com/science/article/pii/S0167739X24003972/pdfft?md5=967d2951f36ac1c92466c6a4ee5f41a2&pid=1-s2.0-S0167739X24003972-main.pdf)
 * <b>Amin Aminifar</b>, Baichuan Huang, Azra Abtahi, Amir Aminifar. "LightFF: Lightweight Inference for Forward-Forward Algorithm." In 27th European Conference on Artificial Intelligence (<i>Acceptance Rate: 23%</i>), 2024.
 * Abtahi, Azra, <b>Amin Aminifar</b>, Amir Aminifar. "Privacy-Preserving Federated Interpretability." In IEEE International Conference on Big Data (BigData), 2024.
 * Shakibhamedan, Salar, <b>Amin Aminifar</b> and Luke Vassallo and Nima TaheriNejad. "Harnessing Approximate Computing for Machine Learning." IEEE Computer Society Annual Symposium on VLSI (ISVLSI), 2024.
