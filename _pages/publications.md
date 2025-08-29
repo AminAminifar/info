@@ -28,6 +28,7 @@ author_profile: true
 [<img src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" alt=" PDF" width="16" />](https://aminaminifar.github.io/info/files/my_papers/ECAI2024.pdf) | [Publisher Link](https://ebooks.iospress.nl/DOI/10.3233/FAIA240682)
 <!-- -->
 * Abtahi, Azra, <b>Amin Aminifar</b>, Amir Aminifar. "Privacy-Preserving Federated Interpretability." In IEEE International Conference on Big Data (BigData), 2024.
+[Publisher Link](https://ieeexplore.ieee.org/document/10825590)
 <!-- -->
 * Shakibhamedan, Salar, <b>Amin Aminifar</b> and Luke Vassallo and Nima TaheriNejad. "Harnessing Approximate Computing for Machine Learning." IEEE Computer Society Annual Symposium on VLSI (ISVLSI), 2024.
 <!-- -->
