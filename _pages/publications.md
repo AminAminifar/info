@@ -13,7 +13,7 @@ author_profile: true
 <!-- 2025 -->
 * <b>Amin Aminifar</b>, Jonathan Dan, David Atienza. "Federated Learning with Patient-Annotated Data in Epileptic Seizure Detection." In International Joint Conference on Neural Networks (IJCNN), 2025.
 [<img src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" alt=" PDF" width="16" />]()
-[<img src="{{ '/files/icons/pdf-icon.png' | relative_url }}" alt="PDF" width="16" /> PDF]({{ '/files/my_papers/IJCNN2025_ESL_EPFL_Heidelberg.pdf' | relative_url }})
+[<img src="{{ 'https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png' | relative_url }}" alt="PDF" width="16" /> PDF]({{ 'https://github.com/AminAminifar/info/blob/master/files/my_papers/IJCNN2025_ESL_EPFL_Heidelberg.pdf' | relative_url }})
 <!-- -->
 * Anahita Baninajjar, <b>Amin Aminifar</b>, Kamran Hosseini, Amir Aminifar, Ahmed Rezine. "Robustness and Privacy Interplay in Patient Membership Inference." In International Joint Conference on Neural Networks (IJCNN), 2025.
 <!-- -->
