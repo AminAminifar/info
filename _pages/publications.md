@@ -9,10 +9,11 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-{: .justified }
+
 ### Accepted for Publication
 ---
-{: .justified }
+
+{: .pub-list .justified}
 <!-- 2025 -->
 * <b>Amin Aminifar</b>, Jonathan Dan, David Atienza. "Federated Learning with Patient-Annotated Data in Epileptic Seizure Detection." In International Joint Conference on Neural Networks (IJCNN), 2025.
 [<img src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" alt=" PDF" width="16" />](https://aminaminifar.github.io/info/files/my_papers/IJCNN2025_1.pdf)
@@ -23,9 +24,11 @@ author_profile: true
 <!-- -->
 * Soheil Khooyooz, Vimala Bauer, Anice Jahanjoo, Mostafa Haghi, <b>Amin Aminifar</b>, Nima TaheriNejad. "IDNoise: Resource-Aware Machine Learning-Based Noise and SNR Detection in Electrocardiogram Signals." In 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2025.
 <!-- -->
+
 ### Published
 ---
-{: .justified }
+
+{: .pub-list .justified}
 <!-- 2024 -->
 <!-- -->
 * <b>Amin Aminifar</b>, Matin Shokri, Amir Aminifar. "Privacy-Preserving Edge Federated Learning for Intelligent Mobile-Health Systems." In Future Generation Computer Systems (<i>Impact Factor: 6.1</i>), 2024.
@@ -88,7 +91,7 @@ author_profile: true
 <!-- unpublished -->
 * Shakibhamedan, Salar, <b>Amin Aminifar</b>, Nima Taherinejad, Axel Jantsch. "EASE: Energy Optimization through Adaptation – A Review of Runtime Energy-Aware Approximate Deep Learning Algorithms." TechRxiv, 2024. DOI: 10.36227/techrxiv.170723230.09169589/v1
 * Traunmueller, Peter, Anice Jahanjoo, Soheil Khooyooz, <b>Amin Aminifar</b>, Nima TaheriNejad. "Wearable Healthcare Devices for Monitoring Stress and Concentration Level in Workplace Environments." arXiv 2406.05813, 2024.
-{: .justified }
+
 
 <!--
 ### Conference papers
