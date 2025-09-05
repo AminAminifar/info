@@ -37,15 +37,15 @@ author_profile: true
 * <b>Amin Aminifar</b>, Baichuan Huang, Azra Abtahi, Amir Aminifar. "LightFF: Lightweight Inference for Forward-Forward Algorithm." In 27th European Conference on Artificial Intelligence (<i>Acceptance Rate: 23%</i>), 2024.
 [<img src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" alt=" PDF" width="16" />](https://aminaminifar.github.io/info/files/my_papers/ECAI2024.pdf) | [Publisher Link](https://ebooks.iospress.nl/DOI/10.3233/FAIA240682)
 <!-- -->
+* <b>Amin Aminifar</b>, Khooyooz, Soheil, Jahanjoo, Anice, Shakibhamedan, Salar, TaheriNejad, Nima. "RecogNoise: Machine-Learning-Based Recognition of Noisy Segments in Electrocardiogram Signals." IEEE International Symposium on Circuits and Systems (ISCAS), 2024.
+[<img src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" alt=" PDF" width="16" />](https://aminaminifar.github.io/info/files/my_papers/ISCAS2024.pdf) | [Publisher Link](https://ieeexplore.ieee.org/abstract/document/10558670)
+<!-- -->
 * Abtahi, Azra, <b>Amin Aminifar</b>, Amir Aminifar. "Privacy-Preserving Federated Interpretability." In IEEE International Conference on Big Data (BigData), 2024.
 [Publisher Link](https://ieeexplore.ieee.org/document/10825590)
 <!-- -->
 * Shakibhamedan, Salar, <b>Amin Aminifar</b> and Luke Vassallo and Nima TaheriNejad. "Harnessing Approximate Computing for Machine Learning." IEEE Computer Society Annual Symposium on VLSI (ISVLSI), 2024.
 <!-- -->
 * Khooyooz, Soheil, Jahanjoo, Anice, <b>Amin Aminifar</b>, TaheriNejad, Nima. "A Novel Machine-Learning-Based Noise Detection Method for Photoplethysmography Signals." 2024 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 2024.
-<!-- -->
-* <b>Amin Aminifar</b>, Khooyooz, Soheil, Jahanjoo, Anice, Shakibhamedan, Salar, TaheriNejad, Nima. "RecogNoise: Machine-Learning-Based Recognition of Noisy Segments in Electrocardiogram Signals." IEEE International Symposium on Circuits and Systems (ISCAS), 2024.
-[<img src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" alt=" PDF" width="16" />](https://aminaminifar.github.io/info/files/my_papers/ISCAS2024.pdf) | [Publisher Link](https://ieeexplore.ieee.org/abstract/document/10558670)
 <!-- -->
 * Jahanjoo, Anice, TaheriNejad, Nima, <b>Amin Aminifar</b>. "High-Accuracy Stress Detection Using Wrist-Worn PPG Sensors." IEEE International Symposium on Circuits and Systems (ISCAS), 2024.
 * Shakibhamedan, Salar, Anice Jahanjoo, <b>Amin Aminifar</b>, Nima Amirafshar, Nima TaheriNejad, Axel Jantsch. "An Analytical Approach to Enhancing DNN Efficiency and Accuracy Using Approximate Multiplication" Workshop on Advancing Neural Network Training: Computational Efficiency, Scalability, and Resource Optimization (WANT@ICML), 2024.
