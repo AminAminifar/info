@@ -70,9 +70,17 @@
       <h2 id="abstract">Abstract</h2>
       <!-- TODO: replace with the real abstract text -->
       <p>
-        We present a federated learning framework that leverages patient-annotated EEG data to enable personalized
-        epileptic seizure detection while preserving data privacy. The method coordinates model updates across
-        distributed clients and integrates annotation quality to improve robustness and performance.
+        Machine learning (ML) generally requires a substantial amount of data to reach or surpass human-level performance. 
+        However, data collection and annotation by experts are known to be costly and time-consuming, 
+        which often leads to suboptimal performance for ML algorithms. One approach to tackle this 
+        challenge is to adopt patient-annotated data on each patient's device in a federated learning (FL) setting. 
+        However, this approach comes with certain challenges. For instance, in the case of epilepsy monitoring, 
+        patient-annotated data is known to involve inaccuracies, i.e., patients may lose consciousness and 
+        annotate a seizure with substantial delay compared to the seizure onset. To address this challenge, 
+        we propose an ML framework for epileptic seizure detection with noisy patient-annotated data. 
+        We evaluate our approach in the case of epileptic seizure detection and show that our proposed method 
+        achieves up to 32.63% higher accuracy, 32.95% higher specificity, and 22.28% higher F1 score 
+        compared to the model trained on the noisy dataset.
       </p>
     </section>
 
@@ -87,12 +95,12 @@
         <pre><code id="bibtexBlock">@inproceedings{AminifarIJCNN2025,
   author    = {Amin Aminifar and Jonathan Dan and David Atienza},
   title     = {Federated Learning with Patient-Annotated Data in Epileptic Seizure Detection},
-  booktitle = {Proceedings of the International Joint Conference on Neural Networks (IJCNN)},
+  booktitle = {2025 International Joint Conference on Neural Networks (IJCNN)},
   year      = {2025},
-  pages     = {},         % TODO: add when available
-  address   = {},         % TODO: city, country if desired
-  doi       = {},         % TODO: add if available
-  url       = {https://aminaminifar.github.io/info/files/my_papers/IJCNN2025_1.pdf}
+  pages     = {1-10},         
+  <!--address   = {},        
+  doi       = {},        
+  url       = {}-->
 }</code></pre>
       </div>
     </section>
