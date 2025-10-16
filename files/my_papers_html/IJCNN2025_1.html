@@ -103,6 +103,56 @@
   </header>
   <!--<link rel="stylesheet" href="{{ '/assets/css/main.css' | /info/files/my_papers_html/IJCNN2025_1.html }}">-->
 
+
+  <!-- Cookie consent popup -->
+<div id="cookie-consent" class="cookie-consent">
+  <p>
+    This website uses cookies to ensure you get the best experience.
+    <button id="cookie-consent-accept">Got it!</button>
+  </p>
+</div>
+
+<script>
+  const cookieConsent = document.getElementById('cookie-consent');
+  const acceptBtn = document.getElementById('cookie-consent-accept');
+
+  if (!localStorage.getItem('cookieAccepted')) {
+    cookieConsent.style.display = 'block';
+  }
+
+  acceptBtn.addEventListener('click', () => {
+    localStorage.setItem('cookieAccepted', 'true');
+    cookieConsent.style.display = 'none';
+  });
+</script>
+
+<style>
+  .cookie-consent {
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #222;
+    color: #fff;
+    padding: 0.8rem 1.2rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+    display: none;
+    z-index: 9999;
+    font-size: 0.9rem;
+  }
+  .cookie-consent button {
+    background: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-left: 10px;
+    padding: 0.3rem 0.6rem;
+    cursor: pointer;
+  }
+</style>
+
+
   
 <body>
   <div class="wrap">
