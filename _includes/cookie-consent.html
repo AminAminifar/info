@@ -1,3 +1,4 @@
+<!--
 <div id="cookie-consent-banner" style="
   display: none;
   position: fixed;
@@ -27,5 +28,74 @@
     cursor: pointer;
   ">Got it!</button>
 </div>
+-->
+<!-- Cookie consent popup -->
+<div id="cookie-consent" class="cookie-consent">
+  <p>
+    This website uses cookies to improve performance<br>
+    and the visitor experience.
+    <a href="https://policies.google.com/technologies/cookies" target="_blank" class="learn-more">Learn more</a>
+    <button id="cookie-consent-accept">Got it!</button>
+  </p>
+</div>
+
+<script>
+  const cookieConsent = document.getElementById('cookie-consent');
+  const acceptBtn = document.getElementById('cookie-consent-accept');
+
+  if (!localStorage.getItem('cookieAccepted')) {
+    cookieConsent.style.display = 'block';
+  }
+
+  acceptBtn.addEventListener('click', () => {
+    localStorage.setItem('cookieAccepted', 'true');
+    cookieConsent.style.display = 'none';
+  });
+</script>
+
+<style>
+  .cookie-consent {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;                 /* bottom-left placement */
+    background: #ffffff;         /* clean white background */
+    color: #333;                 /* dark gray text */
+    padding: 0.8rem 1.2rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+    display: none;
+    z-index: 9999;
+    font-size: 0.9rem;
+    border: 1px solid #e5e7eb;   /* subtle border to match site */
+    line-height: 1.4;
+  }
+
+  .cookie-consent button {
+    background: #e5e7eb;         /* light gray button */
+    color: #111827;              /* dark text */
+    border: none;
+    border-radius: 5px;
+    margin-left: 10px;
+    padding: 0.3rem 0.7rem;
+    cursor: pointer;
+    font-weight: 500;
+  }
+
+  .cookie-consent button:hover {
+    background: #d1d5db;         /* slightly darker gray on hover */
+  }
+
+  .cookie-consent .learn-more {
+    color: #666;                 /* subtle gray link */
+    text-decoration: underline;
+    margin-left: 6px;
+  }
+
+  .cookie-consent .learn-more:hover {
+    color: #1a73e8;              /* soft blue hover color */
+  }
+</style>
+
+
 
 
