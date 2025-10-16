@@ -37,36 +37,45 @@
     footer { margin-top: 2rem; color: #666; font-size: .9rem; }
 
 
-        /* Header & navbar custom style */
-    .site-header {
-      background: #fff;
-      padding: 0.75rem 1rem;
-      border-bottom: 1px solid #e5e7eb; /* subtle divider line */
-    }
+/* Header container */
+.site-header {
+  background: #fff;
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid #e5e7eb;
+  margin-bottom: 0.75rem; /* small gap below header */
+}
 
-    .navbar {
-      max-width: 820px;
-      margin: 0 auto;
-      display: flex;
-      align-items: center;
-      gap: 2rem;
-      font-size: 1rem;
-    }
+/* Navigation bar */
+.navbar {
+  max-width: 820px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;   /* centers vertically */
+  gap: 2rem;
+  font-size: 1rem;
+  height: 40px;          /* helps vertical centering consistency */
+}
 
-    .navbar a {
-      color: #6b7280;        /* soft gray */
-      text-decoration: none;
-      transition: color 0.2s ease;
-    }
+/* Link appearance */
+.navbar a {
+  color: #6b7280;        /* soft gray */
+  text-decoration: none;
+  transition: color 0.2s ease;
+  display: inline-flex;
+  align-items: center;   /* ensures emojis and text align nicely */
+}
 
-    .navbar a:hover {
-      color: #111827;        /* darker on hover */
-    }
+/* Hover style */
+.navbar a:hover {
+  color: #111827;
+}
 
-    .navbar a.active {
-      font-weight: 600;      /* bold active page */
-      color: #111827;
-    }
+/* Bold active (Homepage) */
+.navbar a.active {
+  font-weight: 600;
+  color: #111827;
+}
+    
   </style>
 </head>
 
@@ -74,7 +83,7 @@
   <!-- SINGLE header/nav (don’t duplicate this block) -->
   <header class="site-header">
     <nav class="navbar">
-      <a href="/info/">Homepage</a>
+      <a href="/info/ class="active"">Homepage</a>
       <a href="/info/publications/">Publications</a>
       <!--<a href="/info/teaching/">Teaching</a>
       <a href="/info/technical_experience/">Academic Service</a>-->
