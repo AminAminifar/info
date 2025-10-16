@@ -107,7 +107,7 @@
   <!-- Cookie consent popup -->
 <div id="cookie-consent" class="cookie-consent">
   <p>
-    This website uses cookies to ensure you get the best experience.
+    This website uses cookies to improve performance and the visitor experience.
     <button id="cookie-consent-accept">Got it!</button>
   </p>
 </div>
@@ -130,27 +130,34 @@
   .cookie-consent {
     position: fixed;
     bottom: 20px;
-    left: 50%;
-    transform: translateX(-50%);
-    background: #222;
-    color: #fff;
+    right: 20px;             /* ⬅ move to bottom-right */
+    background: #ffffff;     /* ⬅ white background */
+    color: #333;             /* dark gray text for contrast */
     padding: 0.8rem 1.2rem;
     border-radius: 8px;
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
     display: none;
     z-index: 9999;
     font-size: 0.9rem;
+    border: 1px solid #e5e7eb;  /* subtle border, matches site style */
   }
+
   .cookie-consent button {
-    background: #4CAF50;
-    color: white;
+    background: #e5e7eb;     /* ⬅ light gray button */
+    color: #111827;          /* dark text */
     border: none;
     border-radius: 5px;
     margin-left: 10px;
-    padding: 0.3rem 0.6rem;
+    padding: 0.3rem 0.7rem;
     cursor: pointer;
+    font-weight: 500;
+  }
+
+  .cookie-consent button:hover {
+    background: #d1d5db;     /* slightly darker gray on hover */
   }
 </style>
+
 
 
   
