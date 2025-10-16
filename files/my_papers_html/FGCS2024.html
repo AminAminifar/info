@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Federated Learning with Patient-Annotated Data in Epileptic Seizure Detection - IJCNN 2025</title>
+  <title>Privacy-Preserving Edge Federated Learning for Intelligent Mobile-Health Systems - FGCS 2024</title>
   <link rel="icon" href="https://aminaminifar.github.io/info/images/favicon.ico" type="image/x-icon">
   <!--<link rel="stylesheet" href="/info/assets/css/main.css">-->
 
@@ -24,10 +24,10 @@
   <meta name="citation_author" content="David Atienza">
   <meta name="citation_publication_date" content="2025">
   <meta name="citation_conference_title" content="International Joint Conference on Neural Networks (IJCNN)">
-  <meta name="citation_pdf_url" content="https://aminaminifar.github.io/info/files/my_papers/IJCNN2025_1.pdf">
+  <meta name="citation_pdf_url" content="https://www.sciencedirect.com/science/article/pii/S0167739X24003972/pdfft?md5=967d2951f36ac1c92466c6a4ee5f41a2&pid=1-s2.0-S0167739X24003972-main.pdf">
 
   <!-- Optional but nice for normal Google search -->
-  <meta name="description" content="IJCNN 2025 paper by Amin Aminifar, Jonathan Dan, and David Atienza on federated learning with patient-annotated data for epileptic seizure detection.">
+  <meta name="description" content="FGCS 2024 paper by Amin Aminifar, Matin Shokri, and Amir Aminifar on Privacy-Preserving Edge Federated Learning for Intelligent Mobile-Health Systems.">
 
   <style>
     :root { --maxw: 820px; }
@@ -168,18 +168,20 @@
   
 <body>
   <div class="wrap">
-    <h1>Federated Learning with Patient-Annotated Data in Epileptic Seizure Detection</h1>
+    <h1>Privacy-Preserving Edge Federated Learning for Intelligent Mobile-Health Systems</h1>
     <p class="meta">
-      <strong>Amin Aminifar</strong><sup>1,2</sup>, Jonathan Dan<sup>1</sup>, David Atienza<sup>1</sup><br>
+      <strong>Amin Aminifar</strong><sup>1,2</sup>, Matin Shokri<sup>2</sup>, Amir Aminifar<sup>3</sup><br>
         <small>
-          <sup>1</sup> Embedded Systems Laboratory, EPFL, Switzerland<br>
-          <sup>2</sup> Institute of Computer Engineering, Heidelberg University, Germany
+          <sup>1</sup> Institute of Computer Engineering, Heidelberg University, Germany<br>
+          <sup>2</sup> Faculty of Computer Engineering, K. N. Toosi University of Technology, Iran<br>
+          <sup>3</sup> Department of Electrical and Information Technology, Lund University, Sweden
         </small><br>
-      <em>International Joint Conference on Neural Networks (IJCNN), 2025</em>
+      <em>Future Generation Computer Systems, 2024</em>
+      DOI: <a href="https://doi.org/10.1016/j.future.2024.07.03" target="_blank">https://doi.org/10.1016/j.future.2024.07.03</a>
     </p>
 
     <p>
-      <a class="btn" href="https://aminaminifar.github.io/info/files/my_papers/IJCNN2025_1.pdf">
+      <a class="btn" href="https://www.sciencedirect.com/science/article/pii/S0167739X24003972/pdfft?md5=967d2951f36ac1c92466c6a4ee5f41a2&pid=1-s2.0-S0167739X24003972-main.pdf">
         <img src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" alt="PDF" width="18" height="18">
         Download PDF
       </a>
@@ -192,15 +194,15 @@
 
     <!-- VISUAL ABSTRACT / KEY FIGURE -->
     <section class="hero" aria-labelledby="visual-abstract">
-      <h2 id="visual-abstract">Visual abstract</h2>
+      <h2 id="visual-abstract">Graphical abstract</h2>
       <figure>
         <!-- TODO: replace the src with your image path; keep a web-friendly size (e.g., 1600px wide) -->
-        <img src="https://aminaminifar.github.io/info/files/my_papers_html/images/IJCNN2025_1_visual_abstract.png" 
-             alt="Overview of the federated learning scenario for patient-annotated EEG seizure detection." 
+        <img src="https://aminaminifar.github.io/info/files/my_papers_html/images/FGCS_visual_abstract.png" 
+             alt="Overview of our proposed edge FL framework on resource-constrained mobile-health devices." 
             style="width: 50%; height: auto; display: block; margin: 0 auto;box-shadow: none;border: none;"/>
         <figcaption style="text-align: center;">
           <!-- TODO: edit the caption -->
-          Overview of the federated learning scenario with patient-annotated EEG data for seizure detection.
+          Overview of our proposed edge FL framework on resource-constrained mobile-health devices.
         </figcaption>
       </figure>
     </section>
@@ -210,17 +212,18 @@
       <h2 id="abstract">Abstract</h2>
       <!-- TODO: replace with the real abstract text -->
       <p style="text-align: justify;">
-        Machine learning (ML) generally requires a substantial amount of data to reach or surpass human-level performance. 
-        However, data collection and annotation by experts are known to be costly and time-consuming, 
-        which often leads to suboptimal performance for ML algorithms. One approach to tackle this 
-        challenge is to adopt patient-annotated data on each patient's device in a federated learning (FL) setting. 
-        However, this approach comes with certain challenges. For instance, in the case of epilepsy monitoring, 
-        patient-annotated data is known to involve inaccuracies, i.e., patients may lose consciousness and 
-        annotate a seizure with substantial delay compared to the seizure onset. To address this challenge, 
-        we propose an FL framework for epileptic seizure detection with noisy patient-annotated data. 
-        We evaluate our approach in the case of epileptic seizure detection and show that our proposed method 
-        achieves up to 32.63% higher accuracy, 32.95% higher specificity, and 22.28% higher F1 score 
-        compared to the model trained on the noisy dataset. 
+Machine Learning (ML) algorithms are generally designed for scenarios in which all data is stored in one data center, 
+        where the training is performed. However, in many applications, e.g., in the healthcare domain, the training data is 
+        distributed among several entities, e.g., different hospitals or patients’ mobile devices/sensors. At the same time, 
+        transferring the data to a central location for learning is certainly not an option, due to privacy concerns and legal issues, 
+        and in certain cases, because of the communication and computation overheads. Federated Learning (FL) is the state-of-the-art 
+        collaborative ML approach for training an ML model across multiple parties holding local data samples, without sharing them. However, 
+        enabling learning from distributed data over such edge Internet of Things (IoT) systems (e.g., mobile-health and wearable technologies, 
+        involving sensitive personal/medical data) in a privacy-preserving fashion presents a major challenge mainly due to their stringent resource 
+        constraints, i.e., limited computing capacity, communication bandwidth, memory storage, and battery lifetime. In this paper, we propose a 
+        privacy-preserving edge FL framework for resource-constrained mobile-health and wearable technologies over the IoT infrastructure. We evaluate our 
+        proposed framework extensively and provide the implementation of our technique on Amazon’s AWS cloud platform based on the seizure detection 
+        application in epilepsy monitoring using wearable technologies.
       </p>
     </section>
 
@@ -232,15 +235,15 @@
       <h2 id="bibtex">BibTeX</h2>
       <div class="bibtex">
         <button class="btn copy-btn" id="copyBibBtn" type="button">Copy</button>
-        <pre><code id="bibtexBlock">@inproceedings{aminifar2025federated,
-  author    = {Aminifar, Amin and Dan, Jonathan and Atienza, David},
-  title     = {Federated Learning with Patient-Annotated Data in Epileptic Seizure Detection},
-  booktitle = {2025 International Joint Conference on Neural Networks (IJCNN)},
-  year      = {2025},
-  pages     = {1--10},        
-  <!--address   = {},        
-  doi       = {},        
-  url       = {}-->}</code></pre>
+        <pre><code id="bibtexBlock">@article{aminifar2024privacy,
+          title={Privacy-preserving edge federated learning for intelligent mobile-health systems},
+          author={Aminifar, Amin and Shokri, Matin and Aminifar, Amir},
+          journal={Future Generation Computer Systems},
+          volume={161},
+          pages={625--637},
+          year={2024},
+          publisher={Elsevier}
+        }</code></pre>
       </div>
     </section>
 
