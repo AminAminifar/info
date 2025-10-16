@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Federated Learning with Patient-Annotated Data in Epileptic Seizure Detection - IJCNN 2025</title>
+
+  <!-- Google Scholar metadata -->
+  <meta name="citation_title" content="Federated Learning with Patient-Annotated Data in Epileptic Seizure Detection">
+  <meta name="citation_author" content="Amin Aminifar">
+  <meta name="citation_author" content="Jonathan Dan">
+  <meta name="citation_author" content="David Atienza">
+  <meta name="citation_publication_date" content="2025">
+  <meta name="citation_conference_title" content="International Joint Conference on Neural Networks (IJCNN)">
+  <meta name="citation_pdf_url" content="https://aminaminifar.github.io/info/files/my_papers/IJCNN2025_1.pdf">
+
+  <!-- Optional but nice for normal Google search -->
+  <meta name="description" content="IJCNN 2025 paper by Amin Aminifar, Jonathan Dan, and David Atienza on federated learning with patient-annotated data for epileptic seizure detection.">
+
+  <style>
+    :root { --maxw: 820px; }
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin: 0; padding: 2rem 1rem; line-height: 1.6; color: #111; }
+    .wrap { max-width: var(--maxw); margin: 0 auto; }
+    h1 { font-size: 1.8rem; margin: 0 0 .5rem; line-height: 1.25; }
+    .meta { color: #444; margin-bottom: 1rem; }
+    .btn { display: inline-flex; align-items: center; gap: .5rem; border: 1px solid #ddd; border-radius: 8px; padding: .5rem .75rem; text-decoration: none; }
+    .btn:hover { background: #f7f7f7; }
+    .hero { margin: 1.25rem 0 1.5rem; }
+    .hero figure { margin: 0; }
+    .hero img { width: 100%; height: auto; border-radius: 10px; border: 1px solid #eee; }
+    .hero figcaption { font-size: .9rem; color: #555; margin-top: .5rem; }
+    h2 { font-size: 1.25rem; margin-top: 2rem; }
+    .bibtex { position: relative; background: #fafafa; border: 1px solid #eee; border-radius: 10px; padding: 1rem; }
+    .bibtex pre { margin: 0; overflow-x: auto; }
+    .copy-btn { position: absolute; top: .5rem; right: .5rem; }
+    footer { margin-top: 2rem; color: #666; font-size: .9rem; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>Federated Learning with Patient-Annotated Data in Epileptic Seizure Detection</h1>
+    <p class="meta">
+      <strong>Amin Aminifar</strong>, Jonathan Dan, David Atienza<br>
+      <em>International Joint Conference on Neural Networks (IJCNN), 2025</em>
+    </p>
+
+    <p>
+      <a class="btn" href="https://aminaminifar.github.io/info/files/my_papers/IJCNN2025_1.pdf">
+        <img src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" alt="PDF" width="18" height="18">
+        Download PDF
+      </a>
+    </p>
+
+    <!-- VISUAL ABSTRACT / KEY FIGURE -->
+    <section class="hero" aria-labelledby="visual-abstract">
+      <h2 id="visual-abstract">Visual abstract</h2>
+      <figure>
+        <!-- TODO: replace the src with your image path; keep a web-friendly size (e.g., 1600px wide) -->
+        <img src="https://aminaminifar.github.io/info/files/images/ijcnn2025_visual_abstract.png" 
+             alt="Overview of the federated learning workflow for patient-annotated EEG seizure detection." />
+        <figcaption>
+          <!-- TODO: edit the caption -->
+          Overview of the proposed federated learning framework with patient-annotated EEG data for personalized seizure detection.
+        </figcaption>
+      </figure>
+    </section>
+
+    <!-- ABSTRACT -->
+    <section aria-labelledby="abstract">
+      <h2 id="abstract">Abstract</h2>
+      <!-- TODO: replace with the real abstract text -->
+      <p>
+        We present a federated learning framework that leverages patient-annotated EEG data to enable personalized
+        epileptic seizure detection while preserving data privacy. The method coordinates model updates across
+        distributed clients and integrates annotation quality to improve robustness and performance.
+      </p>
+    </section>
+
+    <!-- OPTIONAL: links to code, poster, slides -->
+    <!-- <p><a class="btn" href="LINK_TO_CODE">Code</a></p> -->
+
+    <!-- BIBTEX -->
+    <section aria-labelledby="bibtex">
+      <h2 id="bibtex">BibTeX</h2>
+      <div class="bibtex">
+        <button class="btn copy-btn" id="copyBibBtn" type="button">Copy</button>
+        <pre><code id="bibtexBlock">@inproceedings{AminifarIJCNN2025,
+  author    = {Amin Aminifar and Jonathan Dan and David Atienza},
+  title     = {Federated Learning with Patient-Annotated Data in Epileptic Seizure Detection},
+  booktitle = {Proceedings of the International Joint Conference on Neural Networks (IJCNN)},
+  year      = {2025},
+  pages     = {},         % TODO: add when available
+  address   = {},         % TODO: city, country if desired
+  doi       = {},         % TODO: add if available
+  url       = {https://aminaminifar.github.io/info/files/my_papers/IJCNN2025_1.pdf}
+}</code></pre>
+      </div>
+    </section>
+
+    <footer>
+      If anything changes (DOI, pages), update both the BibTeX and the metadata in the page head.
+    </footer>
+  </div>
+
+  <script>
+    // Copy-to-clipboard for BibTeX
+    document.getElementById('copyBibBtn').addEventListener('click', function () {
+      const code = document.getElementById('bibtexBlock').innerText;
+      navigator.clipboard.writeText(code).then(() => {
+        this.textContent = 'Copied!';
+        setTimeout(() => (this.textContent = 'Copy'), 1200);
+      });
+    });
+  </script>
+</body>
+</html>
