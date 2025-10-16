@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Amin Aminifar / Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Amin Aminifar"
 description              : &description "Postdoctoral Fellow"  # ZITI
