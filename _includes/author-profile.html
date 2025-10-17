@@ -118,6 +118,17 @@
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
 {% endif %}
+      {% if author.dblp %}
+  <li>
+    <a href="{{ author.dblp }}" target="_blank" rel="noopener noreferrer">
+      <img src="{{ '/files/icons/dblp_grayscale-icon.png' | relative_url }}" 
+           alt="DBLP" 
+           style="width:18px; height:18px; vertical-align:middle; margin-right:5px;">
+      DBLP
+    </a>
+  </li>
+{% endif %}
+
     </ul>
   </div>
 </div>
