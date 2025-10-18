@@ -1,18 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
+<urlset 
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Homepage -->
   <url>
     <loc>https://aminaminifar.github.io/info/index.html</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Publications index page -->
+  <url>
+    <loc>https://aminaminifar.github.io/info/publications/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Individual publication pages -->
+  <url>
+    <loc>https://aminaminifar.github.io/info/files/my_papers_html/Access2022.html</loc>
   </url>
   <url>
-    <loc>https://aminaminifar.github.io/info/files/my_papers_html/IJCNN2025_1.html</loc>
+    <loc>https://aminaminifar.github.io/info/files/my_papers_html/ECAI2024.html</loc>
+  </url>
+  <url>
+    <loc>https://aminaminifar.github.io/info/files/my_papers_html/EMBC_1_2021.html</loc>
+  </url>
+  <url>
+    <loc>https://aminaminifar.github.io/info/files/my_papers_html/EMBC_2_2021.html</loc>
   </url>
   <url>
     <loc>https://aminaminifar.github.io/info/files/my_papers_html/FGCS2024.html</loc>
   </url>
   <url>
-    <loc>https://aminaminifar.github.io/info/files/my_papers_html/Access2022.html</loc>
+    <loc>https://aminaminifar.github.io/info/files/my_papers_html/ICASSP2021.html</loc>
   </url>
+  <url>
+    <loc>https://aminaminifar.github.io/info/files/my_papers_html/IJCNN2025_1.html</loc>
+  </url>
+  <url>
+    <loc>https://aminaminifar.github.io/info/files/my_papers_html/ISCAS2024.html</loc>
+  </url>
+  <url>
+    <loc>https://aminaminifar.github.io/info/files/my_papers_html/SAC2021.html</loc>
+  </url>
+  <url>
+    <loc>https://aminaminifar.github.io/info/files/my_papers_html/Thesis2022.html</loc>
+  </url>
+
 </urlset>
-
-
