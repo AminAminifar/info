@@ -37,7 +37,7 @@ author_profile: true
 [[More...](https://aminaminifar.github.io/info/files/my_papers_html/ISCAS2024.html)]
 <!-- -->
 * Abtahi, Azra, <b>Amin Aminifar</b>, Amir Aminifar. "Privacy-Preserving Federated Interpretability." In IEEE International Conference on Big Data (BigData), 2024.
-[[<img src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" alt=" PDF" width="16" />](https://lup.lub.lu.se/search/files/200283700/BigData2024_12_.pdf) | [DOI] (https://doi.org/10.1109/BigData62323.2024.10825590)]
+[[<img src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" alt=" PDF" width="16" />](https://lup.lub.lu.se/search/files/200283700/BigData2024_12_.pdf) | [DOI](https://doi.org/10.1109/BigData62323.2024.10825590)]
 <!-- -->
 * Shakibhamedan, Salar, <b>Amin Aminifar</b> and Luke Vassallo and Nima TaheriNejad. "Harnessing Approximate Computing for Machine Learning." IEEE Computer Society Annual Symposium on VLSI (ISVLSI), 2024.
 <!-- -->
@@ -66,7 +66,7 @@ author_profile: true
 [[More...](https://aminaminifar.github.io/info/files/my_papers_html/EMBC_1_2021.html)]
 <!-- -->
 * Forooghifar, Farnaz, <b>Amin Aminifar</b>, Teijeiro, Tomas, Aminifar, Amir, Jeppesen, Jesper, Beniczky, Sandor, Atienza, David. "Self-Aware Anomaly-Detection for Epilepsy Monitoring on Low-Power Wearable Electrocardiographic Devices." 2021 IEEE 3rd International Conference on Artificial Intelligence Circuits and Systems (AICAS), 2021.
-[[<img src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" alt=" PDF" width="16" />](https://www.researchgate.net/profile/David-Atienza-2/publication/352701942_Self-Aware_Anomaly-Detection_for_Epilepsy_Monitoring_on_Low-Power_Wearable_Electrocardiographic_Devices/links/60f098c50859317dbde5f905/Self-Aware-Anomaly-Detection-for-Epilepsy-Monitoring-on-Low-Power-Wearable-Electrocardiographic-Devices.pdf) | [DOI] (https://doi.org/10.1109/AICAS51828.2021.9458555)]
+[[<img src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" alt=" PDF" width="16" />](https://www.researchgate.net/profile/David-Atienza-2/publication/352701942_Self-Aware_Anomaly-Detection_for_Epilepsy_Monitoring_on_Low-Power_Wearable_Electrocardiographic_Devices/links/60f098c50859317dbde5f905/Self-Aware-Anomaly-Detection-for-Epilepsy-Monitoring-on-Low-Power-Wearable-Electrocardiographic-Devices.pdf) | [DOI](https://doi.org/10.1109/AICAS51828.2021.9458555)]
 <!-- -->
 * Nordgreen, Tine, et al. "Challenges and possible solutions in cross-disciplinary and cross-sectorial research teams within the domain of e-mental health." Journal of Enabling Technologies, 2021.
 <!-- -->
@@ -75,15 +75,15 @@ author_profile: true
 * <b>Amin Aminifar</b>, Lamo, Yngve, Pun, Ka I, Rabbi, Fazle. "A Practical Methodology for Anonymization of Structured Health Data." 2019 17th Scandinavian Conference on Health Informatics (SHI), 2019.
 <!-- -->
 * Shokri, Matin, Khasteh, Seyed Hossein, <b>Amin Aminifar</b>. "Adaptive Fuzzy Watkins: A New Adaptive Approach for Eligibility Traces in Reinforcement Learning." International Journal of Fuzzy Systems, 2019.
-[[<img src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" alt=" PDF" width="16" />](https://link.springer.com/content/pdf/10.1007/s40815-019-00633-x.pdf) | DOI (https://doi.org/10.1007/s40815-019-00633-x)]
+[[<img src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" alt=" PDF" width="16" />](https://link.springer.com/content/pdf/10.1007/s40815-019-00633-x.pdf) | [DOI](https://doi.org/10.1007/s40815-019-00633-x)]
 <!-- 2018 -->
 * Sopic, Dionisije, <b>Amin Aminifar</b>, Aminifar, Amir, Atienza, David. "Real-Time Event-Driven Classification Technique for Early Detection and Prevention of Myocardial Infarction on Wearable Systems." IEEE Transactions on Biomedical Circuits and Systems (TBioCAS), 2018.
 <!--[<img src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" alt=" PDF" width="16" />]() | -->
-[[<img src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" alt=" PDF" width="16" />](https://infoscience.epfl.ch/server/api/core/bitstreams/5e4f7522-77bb-4483-9f93-b5390c880296/content) | [DOI] (https://doi.org/10.1109/TBCAS.2018.2848477)]
+[[<img src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" alt=" PDF" width="16" />](https://infoscience.epfl.ch/server/api/core/bitstreams/5e4f7522-77bb-4483-9f93-b5390c880296/content) | [DOI](https://doi.org/10.1109/TBCAS.2018.2848477)]
 <!-- 2017 -->
 * Sopic, Dionisije, <b>Amin Aminifar</b>, Aminifar, Amir, Atienza, David. "Real-time classification technique for early detection and prevention of myocardial infarction on wearable devices." 2017 IEEE Biomedical Circuits and Systems Conference (BioCAS), 2017.
 <!--[<img src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" alt=" PDF" width="16" />]() | -->
-[[<img src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" alt=" PDF" width="16" />](https://infoscience.epfl.ch/bitstreams/ce6cf7bf-8f4a-4a9f-a1a6-8c1122d93419/download) | [DOI] (https://doi.org/10.1109/BIOCAS.2017.8325140)]
+[[<img src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" alt=" PDF" width="16" />](https://infoscience.epfl.ch/bitstreams/ce6cf7bf-8f4a-4a9f-a1a6-8c1122d93419/download) | [DOI](https://doi.org/10.1109/BIOCAS.2017.8325140)]
 <!-- unpublished -->
 * Shakibhamedan, Salar, <b>Amin Aminifar</b>, Nima Taherinejad, Axel Jantsch. "EASE: Energy Optimization through Adaptation – A Review of Runtime Energy-Aware Approximate Deep Learning Algorithms." TechRxiv, 2024. DOI: 10.36227/techrxiv.170723230.09169589/v1
 * Traunmueller, Peter, Anice Jahanjoo, Soheil Khooyooz, <b>Amin Aminifar</b>, Nima TaheriNejad. "Wearable Healthcare Devices for Monitoring Stress and Concentration Level in Workplace Environments." arXiv 2406.05813, 2024.
