@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Monitoring Motor Activity Data for Detecting Patients' Depression Using Data Augmentation and Privacy-Preserving Distributed Learning - EMBC 2021</title>
+  <link rel="icon" href="https://aminaminifar.github.io/info/images/favicon.ico" type="image/x-icon">
+  <!--<link rel="stylesheet" href="/info/assets/css/main.css">-->
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BZV33EZ8RT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-BZV33EZ8RT');
+</script>
+
+  <!-- Google Scholar metadata -->
+  <meta name="citation_title" content="Monitoring Motor Activity Data for Detecting Patients' Depression Using Data Augmentation and Privacy-Preserving Distributed Learning">
+  <meta name="citation_author" content="Amin Aminifar<sup>1</sup>, Fazle Rabbi<sup>1,2</sup>, Violet Ka I Pun<sup>1,3</sup>, Yngve Lamo<sup>1</sup>">
+  <meta name="citation_publication_date" content="2021">
+  <meta name="citation_journal_title" content="43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)">
+  <meta name="citation_pdf_url" content="https://aminaminifar.github.io/info/files/my_papers/EMBC2021_1.pdf">
+  <meta name="citation_volume" content="XXX">
+
+  <!-- Optional but nice for normal Google search -->
+  <meta name="description" content="EMBC 2021 by  Amin Aminifar, et al., on Monitoring Motor Activity Data for Detecting Patients' Depression Using Data Augmentation and Privacy-Preserving Distributed Learning.">
+
+  <style>
+    :root { --maxw: 820px; }
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin: 0; padding: 2rem 1rem; line-height: 1.6; color: #111; }
+    .wrap { max-width: var(--maxw); margin: 0 auto; }
+    h1 { font-size: 1.8rem; margin: 0 0 .5rem; line-height: 1.25; }
+    .meta { color: #444; margin-bottom: 1rem; }
+    .btn { display: inline-flex; align-items: center; gap: .5rem; border: 1px solid #ddd; border-radius: 8px; padding: .5rem .75rem; text-decoration: none; }
+    .btn:hover { background: #f7f7f7; }
+    .hero { margin: 1.25rem 0 1.5rem; }
+    .hero figure { margin: 0; }
+    .hero img { width: 100%; height: auto; border-radius: 10px; border: 1px solid #eee; }
+    .hero  { font-size: .9rem; color: #555; margin-top: .5rem; }
+    h2 { font-size: 1.25rem; margin-top: 2rem; }
+    .bibtex { position: relative; background: #fafafa; border: 1px solid #eee; border-radius: 10px; padding: 1rem; }
+    .bibtex pre { margin: 0; overflow-x: auto; }
+    .copy-btn { position: absolute; top: .5rem; right: .5rem; }
+    footer { margin-top: 2rem; color: #666; font-size: .9rem; }
+
+
+/* Header container */
+.site-header {
+  background: #fff;
+  padding: 0rem 1rem;     /* slightly smaller internal padding */
+  border-bottom: 1px solid #e5e7eb;
+  margin-top: 0;            /* remove any space above header */
+  margin-bottom: 0.75rem;   /* small gap below header */
+}
+
+/* Navigation bar */
+.navbar {
+  max-width: 820px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;   /* centers vertically */
+  gap: 1rem;
+  font-size: 1.1rem;
+  height: 40px;          /* helps vertical centering consistency */
+}
+
+/* Link appearance */
+.navbar a {
+  color: #6b7280;        /* soft gray */
+  text-decoration: none;
+  transition: color 0.2s ease;
+  display: inline-flex;
+  align-items: center;   /* ensures emojis and text align nicely */
+}
+
+/* Hover style */
+.navbar a:hover {
+  color: #111827;
+}
+
+/* Bold active (Homepage) */
+.navbar a.active {
+  font-weight: 600;
+  color: #111827;
+}
+    
+  </style>
+</head>
+
+
+  <!-- SINGLE header/nav (don’t duplicate this block) -->
+  <header class="site-header">
+    <nav class="navbar">
+      <a href="/info/" class="active">Homepage</a>
+      <a href="/info/publications/">Publications</a>
+      <!--<a href="/info/teaching/">Teaching</a>
+      <a href="/info/technical_experience/">Academic Service</a>-->
+    </nav>
+  </header>
+  <!--<link rel="stylesheet" href="{{ '/assets/css/main.css' | /info/files/my_papers_html/IJCNN2025_1.html }}">-->
+
+
+  <!-- Cookie consent popup -->
+   <!--  This website uses cookies to improve performance<br>
+  and the visitor experience.-->
+<div id="cookie-consent" class="cookie-consent">
+  <p>
+    This website uses cookies to improve performance and the visitor experience.
+    <button id="cookie-consent-accept">Got it!</button>
+  </p>
+</div>
+
+<script>
+  const cookieConsent = document.getElementById('cookie-consent');
+  const acceptBtn = document.getElementById('cookie-consent-accept');
+
+  if (!localStorage.getItem('cookieAccepted')) {
+    cookieConsent.style.display = 'block';
+  }
+
+  acceptBtn.addEventListener('click', () => {
+    localStorage.setItem('cookieAccepted', 'true');
+    cookieConsent.style.display = 'none';
+  });
+</script>
+
+<style>
+  .cookie-consent {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;             /* ⬅ move to bottom-right */
+    background: #ffffff;     /* ⬅ white background */
+    color: #333;             /* dark gray text for contrast */
+    padding: 0.8rem 1.2rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+    display: none;
+    z-index: 9999;
+    font-size: 0.9rem;
+    border: 1px solid #e5e7eb;  /* subtle border, matches site style */
+    max-width: 450px;             /* ⬅ limit overall width */
+    text-align: left;             /* keep text aligned neatly */
+    word-wrap: break-word;        /* wrap text if needed */
+  }
+
+  .cookie-consent button {
+    background: #e5e7eb;     /* ⬅ light gray button */
+    color: #111827;          /* dark text */
+    border: none;
+    border-radius: 5px;
+    margin-left: 10px;
+    padding: 0.3rem 0.7rem;
+    cursor: pointer;
+    font-weight: 500;
+  }
+
+  .cookie-consent button:hover {
+    background: #d1d5db;     /* slightly darker gray on hover */
+  }
+</style>
+
+
+
+  
+<body>
+  <div class="wrap">
+    <h1>Monitoring Motor Activity Data for Detecting Patients' Depression Using Data Augmentation and Privacy-Preserving Distributed Learning</h1>
+    <p class="meta">
+      <strong>Amin Aminifar<sup>1</sup>, Fazle Rabbi<sup>1,2</sup>, Violet Ka I Pun<sup>1,3</sup>, Yngve Lamo<sup>1</sup></strong><br>
+        <small>
+          <sup>1</sup> Department of Computer Science, Electrical Engineering and Mathematical Sciences, Western Norway University of Applied Sciences, Norway<br><sup>2</sup> Department of Information Science and Media Studies, University of Bergen, Norway<br><sup>3</sup> Department of Informatics, University of Oslo, Norway
+        </small><br>
+      <em>43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 2021</em><br>
+      <small>DOI: <a href="https://doi.org/10.1109/EMBC46164.2021.9630592" target="_blank">https://doi.org/10.1109/EMBC46164.2021.9630592</a></small>
+    </p>
+
+    <p>
+      <a class="btn" href="https://aminaminifar.github.io/info/files/my_papers/EMBC2021_1.pdf">
+        <img src="https://github.com/AminAminifar/info/blob/master/files/icons/pdf-icon.png?raw=true" alt="PDF" width="18" height="18">
+        Download PDF
+      </a>
+
+      <a class="btn" href="#bibtex">
+        <img src="https://github.com/AminAminifar/info/blob/master/files/icons/quote-icon.png?raw=true" alt="BibTeX" width="18" height="18">
+        Citation
+      </a>
+
+      <a class="btn" href="https://scholar.google.com/scholar?q=Monitoring+Motor+Activity+Data+for+Detecting+Patients%27+Depression+Using+Data+Augmentation+and+Privacy-Preserving+Distributed+Learning." target="_blank" title="View on Google Scholar">
+        <img src="https://github.com/AminAminifar/info/blob/master/files/icons/google_scholar-icon.png?raw=true" alt="Google Scholar" width="18" height="18"> <!--https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg-->
+        Google Scholar
+      </a>
+
+    </p>
+
+    <!-- VISUAL ABSTRACT / KEY FIGURE -->
+    <section class="hero" aria-labelledby="visual-abstract">
+      <h2 id="visual-abstract">Graphical abstract</h2>
+      <figure>
+        <!-- TODO: replace the src with your image path; keep a web-friendly size (e.g., 1600px wide) -->
+        <img src="https://aminaminifar.github.io/info/files/my_papers_html/images/EMBC2021_1_visual_abstract.png" 
+             alt="Analysis of sensor data generated by wearable devices" 
+            style="width: 50%; height: auto; display: block; margin: 0 auto;box-shadow: none;border: none;"/>
+        <figcaption style="text-align: center;">
+          <!-- TODO: edit the caption -->
+          Analysis of sensor data generated by wearable devices
+        </figcaption>
+      </figure>
+    </section>
+
+    <!-- ABSTRACT -->
+    <section aria-labelledby="abstract">
+      <h2 id="abstract">Abstract</h2>
+      <!-- TODO: replace with the real abstract text -->
+      <p style="text-align: justify;">
+Wearable devices are currently being considered to collect personalized physiological information, which is lately being used to provide healthcare services to individuals. One application is detecting depression by utilization of motor activity signals collected by the ActiGraph wearable wristbands. However, to develop an accurate classification model, we require to use a sufficient volume of data from several subjects, taking the sensitivity of such data into account. Therefore, in this paper, we present an approach to extract classification models for predicting depression based on a new augmentation technique for motor activity data in a privacy-preserving fashion. We evaluate our approach against the state-of-the-art techniques and demonstrate its performance based on the mental health datasets associated with the Norwegian INTROducing Mental health through Adaptive Technology (INTROMAT) Project.
+      </p>
+    </section>
+
+    <!-- OPTIONAL: links to code, poster, slides -->
+    <!-- <p><a class="btn" href="LINK_TO_CODE">Code</a></p> -->
+
+    <!-- BIBTEX -->
+    <section aria-labelledby="bibtex">
+      <h2 id="bibtex">BibTeX</h2>
+      <div class="bibtex">
+        <button class="btn copy-btn" id="copyBibBtn" type="button">Copy</button>
+        <pre><code id="bibtexBlock">@inproceedings{aminifar2021monitoring,
+  title={Monitoring motor activity data for detecting patients’ depression using data augmentation and privacy-preserving distributed learning},
+  author={Aminifar, Amin and Rabbi, Fazle and Pun, Violet Ka I and Lamo, Yngve},
+  booktitle={2021 43rd Annual International Conference of the IEEE Engineering in Medicine \& Biology Society (EMBC)},
+  pages={2163--2169},
+  year={2021},
+  organization={IEEE}
+}</code></pre>
+      </div>
+    </section>
+
+    <footer>
+      <!--#######If anything changes (DOI, pages), update both the BibTeX and the metadata in the page head.######-->
+    </footer>
+  </div>
+
+  <script>
+    // Copy-to-clipboard for BibTeX
+    document.getElementById('copyBibBtn').addEventListener('click', function () {
+      const code = document.getElementById('bibtexBlock').innerText;
+      navigator.clipboard.writeText(code).then(() => {
+        this.textContent = 'Copied!';
+        setTimeout(() => (this.textContent = 'Copy'), 1200);
+      });
+    });
+  </script>
+</body>
+</html>
