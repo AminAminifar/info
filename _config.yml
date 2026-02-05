@@ -84,7 +84,7 @@ author:
   avatar           : "Amin.jpg"
   bio              : "Postdoctoral Fellow"  # ZITI Postdoctoral Fellow at Heidelberg University
   location         : "Odense, Denmark"  # "Heidelberg, Germany"
-  employer         : "University of Southern Denmark" # "Heidelberg University"
+  employer         : # "University of Southern Denmark" # "Heidelberg University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=eEG0x3cAAAAJ&hl=en&oi=ao"
   email            : "aminifar@sdu.dk"  # "amin.aminifar@uni-heidelberg.de " "amin.aminifar@alumni.uni-heidelberg.de"
