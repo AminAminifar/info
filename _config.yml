@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Amin Aminifar"
-description              : &description "Postdoctoral Fellow"  # ZITI
+description              : &description "Postdoctoral Researcher"  # ZITI "Postdoctoral Fellow"
 url                      : https://aminaminifar.github.io/info # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/AminAminifar" #  academicpages/academicpages.github.io
@@ -83,8 +83,8 @@ author:
   name             : "Amin Aminifar"
   avatar           : "Amin.jpg"
   bio              : "Postdoctoral Fellow"  # ZITI Postdoctoral Fellow at Heidelberg University
-  location         : "Heidelberg, Germany"
-  employer         : # "Heidelberg University"
+  location         : "Odense, Denmark"  # "Heidelberg, Germany"
+  employer         : "University of Southern Denmark" # "Heidelberg University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=eEG0x3cAAAAJ&hl=en&oi=ao"
   email            : "aminifar@sdu.dk"  # "amin.aminifar@uni-heidelberg.de " "amin.aminifar@alumni.uni-heidelberg.de"
